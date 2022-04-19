@@ -1,7 +1,12 @@
-# LeukoDB
-A Repository of Genes and Phenotypes associated with Human Leukodystrophies
+# LeukoDB: A Repository of Genes and Phenotypes associated with Human Leukodystrophies
 
+### Leukodystrophies Contained in Database (From OMIM)
+https://github.com/ecarl-glitch/LeukoDB-BIOI4870/blob/main/OMIMdisease/LeukoDiseasesOMIMProcessed.csv
 
+### Website
+Interactive website that accesses and queries LeukoDB can be found at: http://odin.unomaha.edu/~eecarlson/home.html
+
+### License
 MIT License
 Copyright (c) 2022 Carlson
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights
