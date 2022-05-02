@@ -603,6 +603,11 @@
 </table>
 
 # Information on Data Tables
+64 leukodystrophies identified in OMIM (LeukoDiseasesOMIM) <br>
+1,444 disease - HPO term associations (HPOforLeuko) <br>
+62 genes associated with leukodystrophies (geneLocOMIM, geneNamesOMIM) <br>
+  * 224 genes symbols for the 62 genes  <br>
+  * 121 variants in the DisGeneTable <br>
 
 # ER Diagram
 ![FinalLeukoDB_ER(1)](https://user-images.githubusercontent.com/78552673/166291731-22a121c1-f9d4-470e-afab-0698765ec4e8.jpg)
