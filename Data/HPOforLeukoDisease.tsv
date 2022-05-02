@@ -1,0 +1,1552 @@
+	OMIM_Num	diseaseName	HPO_ID	HPO_Name
+0	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0000006	Autosomal dominant inheritance
+17	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0006926	Metachromatic leukodystrophy variant
+15	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0003581	Adult onset
+14	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0002615	Hypotension
+9	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0000020	Urinary incontinence
+7	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0000012	Urinary urgency
+13	156310	Metachromatic leukodystrophy, adult-onset, with normal arylsulfatasea	HP:0002270	Abnormality of the autonomic nervous system
+217	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0007262	Symmetric peripheral demyelination
+50	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0000802	Impotence
+51	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0001251	Ataxia
+72	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0001257	Spasticity
+98	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0001317	Abnormal cerebellum morphology
+101	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0001347	Hyperreflexia
+122	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0002019	Constipation
+125	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0002171	Gliosis
+126	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0002344	Progressive neurologic deterioration
+218	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0007371	Corpus callosum atrophy
+213	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0004926	Orthostatic hypotension due to autonomic dysfunction
+214	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0005341	Autonomic bladder dysfunction
+215	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0006994	Diffuse leukoencephalopathy
+49	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0000751	Personality changes
+223	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0008652	Autonomic erectile dysfunction
+222	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0007480	Decreased sweating due to autonomic dysfunction
+173	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0002607	Bowel incontinence
+216	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0007024	Pseudobulbar paralysis
+174	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0003487	Babinski sign
+127	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0002415	Leukodystrophy
+48	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0000716	Depression
+195	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0003676	Progressive
+1	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0000006	Autosomal dominant inheritance
+16	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0003581	Adult onset
+18	169500	Leukodystrophy, adult-onset, autosomal dominant	HP:0000639	Nystagmus
+305	221790	DERMATOLEUKODYSTROPHY	HP:0100678	Premature skin wrinkling
+304	221790	DERMATOLEUKODYSTROPHY	HP:0005328	Progeroid facial appearance
+303	221790	DERMATOLEUKODYSTROPHY	HP:0001939	Abnormality of metabolism/homeostasis
+302	221790	DERMATOLEUKODYSTROPHY	HP:0001833	Long foot
+286	221790	DERMATOLEUKODYSTROPHY	HP:0001249	Intellectual disability
+285	221790	DERMATOLEUKODYSTROPHY	HP:0001249	Intellectual disability
+284	221790	DERMATOLEUKODYSTROPHY	HP:0001176	Large hands
+283	221790	DERMATOLEUKODYSTROPHY	HP:0001072	Thickened skin
+128	221790	DERMATOLEUKODYSTROPHY	HP:0002415	Leukodystrophy
+279	221790	DERMATOLEUKODYSTROPHY	HP:0000400	Macrotia
+224	221790	DERMATOLEUKODYSTROPHY	HP:0000007	Autosomal recessive inheritance
+281	221790	DERMATOLEUKODYSTROPHY	HP:0000448	Prominent nose
+445	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001324	Muscle weakness
+480	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0003828	Variable expressivity
+428	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001290	Generalized hypotonia
+425	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001285	Spastic tetraparesis
+423	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001271	Polyneuropathy
+175	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0003487	Babinski sign
+415	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001268	Mental deterioration
+448	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0002015	Dysphagia
+408	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001265	Hyporeflexia
+377	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001263	Global developmental delay
+456	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0002066	Gait ataxia
+490	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0007305	CNS demyelination
+347	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001252	Hypotonia
+459	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0002371	Loss of speech
+311	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001250	Seizure
+306	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0000762	Decreased nerve conduction velocity
+446	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001324	Muscle weakness
+10	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0000020	Urinary incontinence
+475	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0002518	Abnormal periventricular white matter morphology
+102	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001347	Hyperreflexia
+225	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0000007	Autosomal recessive inheritance
+462	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0002376	Developmental regression
+354	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0001260	Dysarthria
+492	249900	Metachromatic leukodystrophy due to saposin B deficiency	HP:0011096	Peripheral demyelination
+495	250100	Metachromatic leukodystrophy	HP:0000648	Optic atrophy
+520	250100	Metachromatic leukodystrophy	HP:0001283	Bulbar palsy
+517	250100	Metachromatic leukodystrophy	HP:0000738	Hallucinations
+518	250100	Metachromatic leukodystrophy	HP:0000746	Delusions
+519	250100	Metachromatic leukodystrophy	HP:0001082	Cholecystitis
+524	250100	Metachromatic leukodystrophy	HP:0001332	Dystonia
+103	250100	Metachromatic leukodystrophy	HP:0001347	Hyperreflexia
+547	250100	Metachromatic leukodystrophy	HP:0002072	Chorea
+548	250100	Metachromatic leukodystrophy	HP:0002445	Tetraplegia
+550	250100	Metachromatic leukodystrophy	HP:0002500	Abnormal cerebral white matter morphology
+516	250100	Metachromatic leukodystrophy	HP:0000712	Emotional lability
+521	250100	Metachromatic leukodystrophy	HP:0001288	Gait disturbance
+416	250100	Metachromatic leukodystrophy	HP:0001268	Mental deterioration
+460	250100	Metachromatic leukodystrophy	HP:0002371	Loss of speech
+429	250100	Metachromatic leukodystrophy	HP:0001290	Generalized hypotonia
+551	250100	Metachromatic leukodystrophy	HP:0002510	Spastic tetraplegia
+409	250100	Metachromatic leukodystrophy	HP:0001265	Hyporeflexia
+355	250100	Metachromatic leukodystrophy	HP:0001260	Dysarthria
+348	250100	Metachromatic leukodystrophy	HP:0001252	Hypotonia
+312	250100	Metachromatic leukodystrophy	HP:0001250	Seizure
+307	250100	Metachromatic leukodystrophy	HP:0000762	Decreased nerve conduction velocity
+287	250100	Metachromatic leukodystrophy	HP:0001249	Intellectual disability
+226	250100	Metachromatic leukodystrophy	HP:0000007	Autosomal recessive inheritance
+11	250100	Metachromatic leukodystrophy	HP:0000020	Urinary incontinence
+176	250100	Metachromatic leukodystrophy	HP:0003487	Babinski sign
+493	250100	Metachromatic leukodystrophy	HP:0011096	Peripheral demyelination
+558	250100	Metachromatic leukodystrophy	HP:0002922	Increased CSF protein
+561	250100	Metachromatic leukodystrophy	HP:0005609	Gallbladder dysfunction
+560	250100	Metachromatic leukodystrophy	HP:0003445	EMG: neuropathic changes
+562	250100	Metachromatic leukodystrophy	HP:0007133	Progressive peripheral neuropathy
+52	250100	Metachromatic leukodystrophy	HP:0001251	Ataxia
+715	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002878	Respiratory failure
+768	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0100660	Dyskinesia
+53	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001251	Ataxia
+712	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002490	Increased CSF lactate
+349	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001252	Hypotonia
+707	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002421	Poor head control
+702	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002352	Leukoencephalopathy
+695	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002240	Hepatomegaly
+378	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001263	Global developmental delay
+559	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002922	Increased CSF protein
+689	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002104	Apnea
+410	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001265	Hyporeflexia
+683	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002093	Respiratory insufficiency
+681	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002069	Bilateral tonic-clonic seizure
+720	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003200	Ragged-red muscle fibers
+721	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003202	Skeletal muscle atrophy
+725	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003348	Hyperalaninemia
+729	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003546	Exercise intolerance
+765	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0012240	Increased intramyocellular lipid droplets
+177	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003487	Babinski sign
+764	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0011924	Decreased activity of mitochondrial complex III
+763	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0011923	Decreased activity of mitochondrial complex I
+758	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0008872	Feeding difficulties in infancy
+757	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0008160	3-hydroxydicarboxylic aciduria
+755	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0007965	Undetectable visual evoked potentials
+754	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0007183	Focal T2 hyperintense basal ganglia lesion
+753	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0006965	Acute necrotizing encephalopathy
+227	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000007	Autosomal recessive inheritance
+752	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0005157	Concentric hypertrophic cardiomyopathy
+751	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0004900	Severe lactic acidosis
+750	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0004481	Progressive macrocephaly
+749	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003648	Lacticaciduria
+730	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0003593	Infantile onset
+678	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002013	Vomiting
+676	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001943	Hypoglycemia
+694	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002181	Cerebral edema
+613	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000618	Blindness
+619	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001254	Lethargy
+618	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001138	Optic neuropathy
+617	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000961	Cyanosis
+616	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000817	Poor eye contact
+674	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001744	Splenomegaly
+611	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000582	Upslanted palpebral fissure
+607	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000543	Optic disc pallor
+603	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000508	Ptosis
+594	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000486	Strabismus
+767	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0032653	Elevated lactate:pyruvate ratio
+586	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000407	Sensorineural hearing impairment
+585	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000331	Short chin
+104	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001347	Hyperreflexia
+566	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000252	Microcephaly
+563	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000047	Hypospadias
+623	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001259	Coma
+463	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002376	Developmental regression
+766	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0012752	Focal T2 hypointense basal ganglia lesion
+129	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0002415	Leukodystrophy
+668	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001522	Death in infancy
+646	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001508	Failure to thrive
+645	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001427	Mitochondrial inheritance
+644	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001399	Hepatic failure
+19	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0000639	Nystagmus
+643	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001308	Tongue fasciculations
+626	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001272	Cerebellar atrophy
+73	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001257	Spasticity
+658	252010	Mitochondrial complex I deficiency, nuclear type 1	HP:0001510	Growth delay
+810	260600	Leukodystrophy, hypomyelinating, 3	HP:0008936	Axial hypotonia
+803	260600	Leukodystrophy, hypomyelinating, 3	HP:0007256	Abnormal pyramidal sign
+800	260600	Leukodystrophy, hypomyelinating, 3	HP:0003269	Sudanophilic leukodystrophy
+818	260600	Leukodystrophy, hypomyelinating, 3	HP:0011344	Severe global developmental delay
+802	260600	Leukodystrophy, hypomyelinating, 3	HP:0006918	Diffuse cerebral sclerosis
+801	260600	Leukodystrophy, hypomyelinating, 3	HP:0005876	Progressive flexion contractures
+791	260600	Leukodystrophy, hypomyelinating, 3	HP:0002353	EEG abnormality
+196	260600	Leukodystrophy, hypomyelinating, 3	HP:0003676	Progressive
+792	260600	Leukodystrophy, hypomyelinating, 3	HP:0002587	Projectile vomiting
+784	260600	Leukodystrophy, hypomyelinating, 3	HP:0001622	Premature birth
+567	260600	Leukodystrophy, hypomyelinating, 3	HP:0000252	Microcephaly
+795	260600	Leukodystrophy, hypomyelinating, 3	HP:0002804	Arthrogryposis multiplex congenita
+771	260600	Leukodystrophy, hypomyelinating, 3	HP:0000280	Coarse facial features
+647	260600	Leukodystrophy, hypomyelinating, 3	HP:0001508	Failure to thrive
+379	260600	Leukodystrophy, hypomyelinating, 3	HP:0001263	Global developmental delay
+228	260600	Leukodystrophy, hypomyelinating, 3	HP:0000007	Autosomal recessive inheritance
+787	260600	Leukodystrophy, hypomyelinating, 3	HP:0002313	Spastic paraparesis
+793	260600	Leukodystrophy, hypomyelinating, 3	HP:0002751	Kyphoscoliosis
+313	260600	Leukodystrophy, hypomyelinating, 3	HP:0001250	Seizure
+785	260600	Leukodystrophy, hypomyelinating, 3	HP:0002283	Global brain atrophy
+219	260600	Leukodystrophy, hypomyelinating, 3	HP:0007371	Corpus callosum atrophy
+669	260600	Leukodystrophy, hypomyelinating, 3	HP:0001522	Death in infancy
+775	260600	Leukodystrophy, hypomyelinating, 3	HP:0000505	Visual impairment
+20	260600	Leukodystrophy, hypomyelinating, 3	HP:0000639	Nystagmus
+130	260600	Leukodystrophy, hypomyelinating, 3	HP:0002415	Leukodystrophy
+849	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0001276	Hypertonia
+864	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0005280	Depressed nasal bridge
+731	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0003593	Infantile onset
+863	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0003186	Inverted nipples
+21	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000639	Nystagmus
+819	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0011344	Severe global developmental delay
+178	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0003487	Babinski sign
+827	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000248	Brachycephaly
+828	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000316	Hypertelorism
+830	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000369	Low-set ears
+836	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000431	Wide nasal bridge
+838	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000510	Rod-cone dystrophy
+841	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000580	Pigmentary retinopathy
+843	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000654	Decreased light- and dark-adapted electroretinogram amplitude
+844	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000737	Irritability
+859	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0002910	Elevated hepatic transaminase
+851	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0001319	Neonatal hypotonia
+229	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000007	Autosomal recessive inheritance
+866	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0006555	Diffuse hepatic steatosis
+867	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0006887	Intellectual disability, progressive
+696	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0002240	Hepatomegaly
+870	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0008619	Bilateral sensorineural hearing impairment
+131	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0002415	Leukodystrophy
+449	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0002015	Dysphagia
+464	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0002376	Developmental regression
+491	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0007305	CNS demyelination
+858	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0002007	Frontal bossing
+525	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0001332	Dystonia
+496	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000648	Optic atrophy
+595	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0000486	Strabismus
+872	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0010864	Intellectual disability, severe
+871	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0008763	No social interaction
+314	264470	Peroxisomal acyl-coa oxidase deficiency	HP:0001250	Seizure
+883	266150	Pyruvate carboxylase deficiency	HP:0002169	Clonus
+894	266150	Pyruvate carboxylase deficiency	HP:0003542	Increased serum pyruvate
+876	266150	Pyruvate carboxylase deficiency	HP:0002151	Increased serum lactate
+875	266150	Pyruvate carboxylase deficiency	HP:0002049	Proximal renal tubular acidosis
+895	266150	Pyruvate carboxylase deficiency	HP:0003577	Congenital onset
+901	266150	Pyruvate carboxylase deficiency	HP:0006970	Periventricular leukomalacia
+902	266150	Pyruvate carboxylase deficiency	HP:0007190	Neuronal loss in the cerebral cortex
+288	266150	Pyruvate carboxylase deficiency	HP:0001249	Intellectual disability
+903	266150	Pyruvate carboxylase deficiency	HP:0025356	Psychomotor retardation
+886	266150	Pyruvate carboxylase deficiency	HP:0003128	Lactic acidosis
+380	266150	Pyruvate carboxylase deficiency	HP:0001263	Global developmental delay
+230	266150	Pyruvate carboxylase deficiency	HP:0000007	Autosomal recessive inheritance
+315	266150	Pyruvate carboxylase deficiency	HP:0001250	Seizure
+726	266150	Pyruvate carboxylase deficiency	HP:0003348	Hyperalaninemia
+697	266150	Pyruvate carboxylase deficiency	HP:0002240	Hepatomegaly
+132	266150	Pyruvate carboxylase deficiency	HP:0002415	Leukodystrophy
+677	266150	Pyruvate carboxylase deficiency	HP:0001943	Hypoglycemia
+430	266150	Pyruvate carboxylase deficiency	HP:0001290	Generalized hypotonia
+350	266150	Pyruvate carboxylase deficiency	HP:0001252	Hypotonia
+909	278800	De Sanctis-Cacchione syndrome	HP:0000656	Ectropion
+910	278800	De Sanctis-Cacchione syndrome	HP:0000992	Cutaneous photosensitivity
+911	278800	De Sanctis-Cacchione syndrome	HP:0001009	Telangiectasia
+912	278800	De Sanctis-Cacchione syndrome	HP:0001029	Poikiloderma
+914	278800	De Sanctis-Cacchione syndrome	HP:0001036	Parakeratosis
+381	278800	De Sanctis-Cacchione syndrome	HP:0001263	Global developmental delay
+915	278800	De Sanctis-Cacchione syndrome	HP:0001266	Choreoathetosis
+922	278800	De Sanctis-Cacchione syndrome	HP:0001284	Areflexia
+925	278800	De Sanctis-Cacchione syndrome	HP:0002059	Cerebral atrophy
+938	278800	De Sanctis-Cacchione syndrome	HP:0002119	Ventriculomegaly
+946	278800	De Sanctis-Cacchione syndrome	HP:0002135	Basal ganglia calcification
+913	278800	De Sanctis-Cacchione syndrome	HP:0001034	Hypermelanotic macule
+907	278800	De Sanctis-Cacchione syndrome	HP:0000509	Conjunctivitis
+289	278800	De Sanctis-Cacchione syndrome	HP:0001249	Intellectual disability
+411	278800	De Sanctis-Cacchione syndrome	HP:0001265	Hyporeflexia
+417	278800	De Sanctis-Cacchione syndrome	HP:0001268	Mental deterioration
+133	278800	De Sanctis-Cacchione syndrome	HP:0002415	Leukodystrophy
+497	278800	De Sanctis-Cacchione syndrome	HP:0000648	Optic atrophy
+568	278800	De Sanctis-Cacchione syndrome	HP:0000252	Microcephaly
+587	278800	De Sanctis-Cacchione syndrome	HP:0000407	Sensorineural hearing impairment
+596	278800	De Sanctis-Cacchione syndrome	HP:0000486	Strabismus
+74	278800	De Sanctis-Cacchione syndrome	HP:0001257	Spasticity
+682	278800	De Sanctis-Cacchione syndrome	HP:0002069	Bilateral tonic-clonic seizure
+54	278800	De Sanctis-Cacchione syndrome	HP:0001251	Ataxia
+786	278800	De Sanctis-Cacchione syndrome	HP:0002283	Global brain atrophy
+947	278800	De Sanctis-Cacchione syndrome	HP:0002542	Olivopontocerebellar atrophy
+906	278800	De Sanctis-Cacchione syndrome	HP:0000491	Keratitis
+948	278800	De Sanctis-Cacchione syndrome	HP:0002861	Melanoma
+908	278800	De Sanctis-Cacchione syndrome	HP:0000621	Entropion
+950	278800	De Sanctis-Cacchione syndrome	HP:0003510	Severe short stature
+179	278800	De Sanctis-Cacchione syndrome	HP:0003487	Babinski sign
+231	278800	De Sanctis-Cacchione syndrome	HP:0000007	Autosomal recessive inheritance
+968	278800	De Sanctis-Cacchione syndrome	HP:0025455	Decreased CSF 5-hydroxyindolacetic acid
+967	278800	De Sanctis-Cacchione syndrome	HP:0012407	Scissor gait
+959	278800	De Sanctis-Cacchione syndrome	HP:0011463	Childhood onset
+969	278800	De Sanctis-Cacchione syndrome	HP:0040078	Axonal degeneration
+955	278800	De Sanctis-Cacchione syndrome	HP:0009830	Peripheral neuropathy
+951	278800	De Sanctis-Cacchione syndrome	HP:0004334	Dermal atrophy
+958	278800	De Sanctis-Cacchione syndrome	HP:0010665	Bilateral coxa valga
+952	278800	De Sanctis-Cacchione syndrome	HP:0008110	Equinovarus deformity
+949	278800	De Sanctis-Cacchione syndrome	HP:0003079	Defective DNA repair after ultraviolet radiation damage
+953	278800	De Sanctis-Cacchione syndrome	HP:0008639	Gonadal hypoplasia
+954	278800	De Sanctis-Cacchione syndrome	HP:0008689	Bilateral cryptorchidism
+1026	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002812	Coxa vara
+1027	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002869	Flared iliac wing
+1025	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002750	Delayed skeletal maturation
+1028	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002942	Thoracic kyphosis
+1029	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0003016	Metaphyseal widening
+1030	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0003071	Flattened epiphysis
+1031	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0003071	Flattened epiphysis
+1032	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0003311	Hypoplasia of the odontoid process
+1033	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0004322	Short stature
+316	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0001250	Seizure
+1044	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0009381	Short finger
+831	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000369	Low-set ears
+1042	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0006423	Peg-like central prominence of distal tibial metaphyses
+829	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000316	Hypertelorism
+1043	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0008789	Cone-shaped capital femoral epiphysis
+1024	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002651	Spondyloepimetaphyseal dysplasia
+1045	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0010585	Small epiphyses
+1046	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0011800	Midface retrusion
+772	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000280	Coarse facial features
+1048	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0012704	Widened subarachnoid space
+1049	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0100864	Short femoral neck
+608	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000543	Optic disc pallor
+1041	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0006028	Metaphyseal cupping of metacarpals
+1023	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002645	Wormian bones
+868	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0006887	Intellectual disability, progressive
+988	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0001371	Flexion contracture
+979	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000574	Thick eyebrow
+982	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000883	Thin ribs
+983	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000884	Prominent sternum
+984	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000907	Anterior rib cupping
+985	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000926	Platyspondyly
+986	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0001156	Brachydactyly
+987	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0001169	Broad palm
+976	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000455	Broad nasal tip
+975	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000294	Low anterior hairline
+977	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000470	Short neck
+998	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0001419	X-linked recessive inheritance
+973	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000272	Malar flattening
+970	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0000218	High palate
+1000	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0001769	Broad foot
+1001	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002079	Hypoplasia of the corpus callosum
+865	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0005280	Depressed nasal bridge
+1020	300232	Spondyloepimetaphyseal dysplasia, X-linked, with mental deterioration	HP:0002188	Delayed CNS myelination
+1065	300523	Allan-Herndon-Dudley syndrome	HP:0001822	Hallux valgus
+569	300523	Allan-Herndon-Dudley syndrome	HP:0000252	Microcephaly
+356	300523	Allan-Herndon-Dudley syndrome	HP:0001260	Dysarthria
+1060	300523	Allan-Herndon-Dudley syndrome	HP:0001583	Rotary nystagmus
+280	300523	Allan-Herndon-Dudley syndrome	HP:0000400	Macrotia
+1063	300523	Allan-Herndon-Dudley syndrome	HP:0001763	Pes planus
+1021	300523	Allan-Herndon-Dudley syndrome	HP:0002188	Delayed CNS myelination
+552	300523	Allan-Herndon-Dudley syndrome	HP:0002510	Spastic tetraplegia
+1057	300523	Allan-Herndon-Dudley syndrome	HP:0001258	Spastic paraplegia
+1069	300523	Allan-Herndon-Dudley syndrome	HP:0002307	Drooling
+105	300523	Allan-Herndon-Dudley syndrome	HP:0001347	Hyperreflexia
+1072	300523	Allan-Herndon-Dudley syndrome	HP:0002540	Inability to walk
+1077	300523	Allan-Herndon-Dudley syndrome	HP:0002650	Scoliosis
+1083	300523	Allan-Herndon-Dudley syndrome	HP:0002925	Elevated circulating thyroid-stimulating hormone concentration
+1084	300523	Allan-Herndon-Dudley syndrome	HP:0003700	Generalized amyotrophy
+1085	300523	Allan-Herndon-Dudley syndrome	HP:0008583	Underfolded superior helices
+1086	300523	Allan-Herndon-Dudley syndrome	HP:0100015	Stahl ear
+134	300523	Allan-Herndon-Dudley syndrome	HP:0002415	Leukodystrophy
+1066	300523	Allan-Herndon-Dudley syndrome	HP:0002305	Athetosis
+1056	300523	Allan-Herndon-Dudley syndrome	HP:0000821	Hypothyroidism
+1051	300523	Allan-Herndon-Dudley syndrome	HP:0000341	Narrow forehead
+1054	300523	Allan-Herndon-Dudley syndrome	HP:0000549	Abnormal conjugate eye movement
+869	300523	Allan-Herndon-Dudley syndrome	HP:0006887	Intellectual disability, progressive
+852	300523	Allan-Herndon-Dudley syndrome	HP:0001319	Neonatal hypotonia
+999	300523	Allan-Herndon-Dudley syndrome	HP:0001419	X-linked recessive inheritance
+873	300523	Allan-Herndon-Dudley syndrome	HP:0010864	Intellectual disability, severe
+1055	300523	Allan-Herndon-Dudley syndrome	HP:0000767	Pectus excavatum
+989	300523	Allan-Herndon-Dudley syndrome	HP:0001371	Flexion contracture
+884	300523	Allan-Herndon-Dudley syndrome	HP:0002169	Clonus
+896	300523	Allan-Herndon-Dudley syndrome	HP:0003577	Congenital onset
+820	300523	Allan-Herndon-Dudley syndrome	HP:0011344	Severe global developmental delay
+845	300523	Allan-Herndon-Dudley syndrome	HP:0000737	Irritability
+759	300523	Allan-Herndon-Dudley syndrome	HP:0008872	Feeding difficulties in infancy
+55	300523	Allan-Herndon-Dudley syndrome	HP:0001251	Ataxia
+1053	300523	Allan-Herndon-Dudley syndrome	HP:0000395	Prominent antihelix
+180	300523	Allan-Herndon-Dudley syndrome	HP:0003487	Babinski sign
+904	601539	Peroxisome biogenesis disorder 1B	HP:0025356	Psychomotor retardation
+382	601539	Peroxisome biogenesis disorder 1B	HP:0001263	Global developmental delay
+1102	601539	Peroxisome biogenesis disorder 1B	HP:0003159	Hyperoxaluria
+1093	601539	Peroxisome biogenesis disorder 1B	HP:0000750	Delayed speech and language development
+135	601539	Peroxisome biogenesis disorder 1B	HP:0002415	Leukodystrophy
+1101	601539	Peroxisome biogenesis disorder 1B	HP:0001395	Hepatic fibrosis
+1091	601539	Peroxisome biogenesis disorder 1B	HP:0000444	Convex nasal ridge
+1103	601539	Peroxisome biogenesis disorder 1B	HP:0010655	Epiphyseal stippling
+1087	601539	Peroxisome biogenesis disorder 1B	HP:0000107	Renal cyst
+431	601539	Peroxisome biogenesis disorder 1B	HP:0001290	Generalized hypotonia
+853	601539	Peroxisome biogenesis disorder 1B	HP:0001319	Neonatal hypotonia
+698	601539	Peroxisome biogenesis disorder 1B	HP:0002240	Hepatomegaly
+1047	601539	Peroxisome biogenesis disorder 1B	HP:0011800	Midface retrusion
+588	601539	Peroxisome biogenesis disorder 1B	HP:0000407	Sensorineural hearing impairment
+498	601539	Peroxisome biogenesis disorder 1B	HP:0000648	Optic atrophy
+839	601539	Peroxisome biogenesis disorder 1B	HP:0000510	Rod-cone dystrophy
+1088	601539	Peroxisome biogenesis disorder 1B	HP:0000286	Epicanthus
+837	601539	Peroxisome biogenesis disorder 1B	HP:0000431	Wide nasal bridge
+1100	601539	Peroxisome biogenesis disorder 1B	HP:0001394	Cirrhosis
+232	601539	Peroxisome biogenesis disorder 1B	HP:0000007	Autosomal recessive inheritance
+317	601539	Peroxisome biogenesis disorder 1B	HP:0001250	Seizure
+357	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001260	Dysarthria
+1002	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002079	Hypoplasia of the corpus callosum
+136	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002415	Leukodystrophy
+499	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000648	Optic atrophy
+1034	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0004322	Short stature
+1070	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002307	Drooling
+1132	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0003429	CNS hypomyelination
+106	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001347	Hyperreflexia
+526	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001332	Dystonia
+1107	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000545	Myopia
+1131	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002174	Postural tremor
+956	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0009830	Peripheral neuropathy
+1130	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002127	Abnormal upper motor neuron morphology
+1117	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000823	Delayed puberty
+1104	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000044	Hypogonadotropic hypogonadism
+197	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0003676	Progressive
+1128	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002120	Cerebral cortical atrophy
+22	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000639	Nystagmus
+627	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001272	Cerebellar atrophy
+450	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0002015	Dysphagia
+233	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000007	Autosomal recessive inheritance
+75	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001257	Spasticity
+181	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0003487	Babinski sign
+1118	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001310	Dysmetria
+383	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0001263	Global developmental delay
+1115	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000677	Oligodontia
+1113	607694	Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/orhypogonadotropic hypogonadism	HP:0000668	Hypodontia
+788	608804	Leukodystrophy, hypomyelinating, 2	HP:0002313	Spastic paraparesis
+234	608804	Leukodystrophy, hypomyelinating, 2	HP:0000007	Autosomal recessive inheritance
+56	608804	Leukodystrophy, hypomyelinating, 2	HP:0001251	Ataxia
+1148	608804	Leukodystrophy, hypomyelinating, 2	HP:0002063	Rigidity
+811	608804	Leukodystrophy, hypomyelinating, 2	HP:0008936	Axial hypotonia
+1178	608804	Leukodystrophy, hypomyelinating, 2	HP:0100543	Cognitive impairment
+1172	608804	Leukodystrophy, hypomyelinating, 2	HP:0006808	Cerebral hypomyelination
+916	608804	Leukodystrophy, hypomyelinating, 2	HP:0001266	Choreoathetosis
+358	608804	Leukodystrophy, hypomyelinating, 2	HP:0001260	Dysarthria
+1170	608804	Leukodystrophy, hypomyelinating, 2	HP:0003431	Decreased motor nerve conduction velocity
+926	608804	Leukodystrophy, hypomyelinating, 2	HP:0002059	Cerebral atrophy
+1169	608804	Leukodystrophy, hypomyelinating, 2	HP:0003390	Sensory axonal neuropathy
+1166	608804	Leukodystrophy, hypomyelinating, 2	HP:0002599	Head titubation
+318	608804	Leukodystrophy, hypomyelinating, 2	HP:0001250	Seizure
+1161	608804	Leukodystrophy, hypomyelinating, 2	HP:0002465	Poor speech
+1158	608804	Leukodystrophy, hypomyelinating, 2	HP:0002191	Progressive spasticity
+527	608804	Leukodystrophy, hypomyelinating, 2	HP:0001332	Dystonia
+1151	608804	Leukodystrophy, hypomyelinating, 2	HP:0002080	Intention tremor
+500	608804	Leukodystrophy, hypomyelinating, 2	HP:0000648	Optic atrophy
+1176	608804	Leukodystrophy, hypomyelinating, 2	HP:0007220	Demyelinating motor neuropathy
+1141	608804	Leukodystrophy, hypomyelinating, 2	HP:0001270	Motor delay
+732	608804	Leukodystrophy, hypomyelinating, 2	HP:0003593	Infantile onset
+1177	608804	Leukodystrophy, hypomyelinating, 2	HP:0010628	Facial palsy
+137	608804	Leukodystrophy, hypomyelinating, 2	HP:0002415	Leukodystrophy
+384	608804	Leukodystrophy, hypomyelinating, 2	HP:0001263	Global developmental delay
+182	608804	Leukodystrophy, hypomyelinating, 2	HP:0003487	Babinski sign
+1108	608804	Leukodystrophy, hypomyelinating, 2	HP:0000545	Myopia
+1061	608804	Leukodystrophy, hypomyelinating, 2	HP:0001583	Rotary nystagmus
+1206	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002460	Distal muscle weakness
+1220	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0011284	Short-segment aganglionic megacolon
+1185	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000458	Anosmia
+1109	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000545	Myopia
+1189	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000522	Alacrima
+1221	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0011285	Long-segment aganglionic megacolon
+1222	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0011382	Hypoplasia of the semicircular canal
+319	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001250	Seizure
+1190	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000966	Hypohidrosis
+1191	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001053	Hypopigmented skin patches
+1192	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001100	Heterochromia iridis
+2	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000006	Autosomal dominant inheritance
+494	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0011096	Peripheral demyelination
+1223	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0011461	Fetal onset
+659	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001510	Growth delay
+1183	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000028	Cryptorchidism
+1218	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0007182	Peripheral hypomyelination
+412	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001265	Hyporeflexia
+351	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001252	Hypotonia
+308	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000762	Decreased nerve conduction velocity
+589	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000407	Sensorineural hearing impairment
+385	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001263	Global developmental delay
+290	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001249	Intellectual disability
+76	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001257	Spasticity
+624	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001259	Coma
+923	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001284	Areflexia
+1211	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0003693	Distal amyotrophy
+1209	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0003623	Neonatal onset
+1212	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0004336	Myelin outfoldings
+1213	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0004463	Absent brainstem auditory responses
+927	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002059	Cerebral atrophy
+553	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002510	Spastic tetraplegia
+1214	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0006978	Dysmyelinating leukodystrophy
+854	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001319	Neonatal hypotonia
+1216	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0007108	Demyelinating peripheral neuropathy
+1219	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0007266	Cerebral dysmyelination
+57	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001251	Ataxia
+1186	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000473	Torticollis
+1193	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001336	Myoclonus
+1198	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001433	Hepatosplenomegaly
+1200	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001558	Decreased fetal movement
+796	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002804	Arthrogryposis multiplex congenita
+1197	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001409	Portal hypertension
+1203	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002211	White forelock
+1207	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002595	Ileus
+1208	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002936	Distal sensory impairment
+1204	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002226	White eyebrow
+1205	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002227	White eyelashes
+1225	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0012332	Abnormal autonomic nervous system physiology
+789	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0002313	Spastic paraparesis
+23	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0000639	Nystagmus
+1202	609136	Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease	HP:0001761	Pes cavus
+320	610333	Aicardi-Goutieres syndrome 4	HP:0001250	Seizure
+235	610333	Aicardi-Goutieres syndrome 4	HP:0000007	Autosomal recessive inheritance
+1227	610333	Aicardi-Goutieres syndrome 4	HP:0000238	Hydrocephalus
+733	610333	Aicardi-Goutieres syndrome 4	HP:0003593	Infantile onset
+832	610333	Aicardi-Goutieres syndrome 4	HP:0000369	Low-set ears
+528	610333	Aicardi-Goutieres syndrome 4	HP:0001332	Dystonia
+939	610333	Aicardi-Goutieres syndrome 4	HP:0002119	Ventriculomegaly
+1249	610333	Aicardi-Goutieres syndrome 4	HP:0011968	Feeding difficulties
+1247	610333	Aicardi-Goutieres syndrome 4	HP:0003819	Death in childhood
+1260	610333	Aicardi-Goutieres syndrome 4	HP:0200149	CSF lymphocytic pleiocytosis
+928	610333	Aicardi-Goutieres syndrome 4	HP:0002059	Cerebral atrophy
+1199	610333	Aicardi-Goutieres syndrome 4	HP:0001433	Hepatosplenomegaly
+860	610333	Aicardi-Goutieres syndrome 4	HP:0002910	Elevated hepatic transaminase
+821	610333	Aicardi-Goutieres syndrome 4	HP:0011344	Severe global developmental delay
+77	610333	Aicardi-Goutieres syndrome 4	HP:0001257	Spasticity
+675	610333	Aicardi-Goutieres syndrome 4	HP:0001744	Splenomegaly
+138	610333	Aicardi-Goutieres syndrome 4	HP:0002415	Leukodystrophy
+699	610333	Aicardi-Goutieres syndrome 4	HP:0002240	Hepatomegaly
+684	610333	Aicardi-Goutieres syndrome 4	HP:0002093	Respiratory insufficiency
+1092	610333	Aicardi-Goutieres syndrome 4	HP:0000444	Convex nasal ridge
+1242	610333	Aicardi-Goutieres syndrome 4	HP:0002514	Cerebral calcification
+1234	610333	Aicardi-Goutieres syndrome 4	HP:0001511	Intrauterine growth retardation
+1239	610333	Aicardi-Goutieres syndrome 4	HP:0001873	Thrombocytopenia
+628	610333	Aicardi-Goutieres syndrome 4	HP:0001272	Cerebellar atrophy
+1241	610333	Aicardi-Goutieres syndrome 4	HP:0001876	Pancytopenia
+1229	610333	Aicardi-Goutieres syndrome 4	HP:0000253	Progressive microcephaly
+236	610532	Leukodystrophy, hypomyelinating, 5	HP:0000007	Autosomal recessive inheritance
+1078	610532	Leukodystrophy, hypomyelinating, 5	HP:0002650	Scoliosis
+359	610532	Leukodystrophy, hypomyelinating, 5	HP:0001260	Dysarthria
+183	610532	Leukodystrophy, hypomyelinating, 5	HP:0003487	Babinski sign
+321	610532	Leukodystrophy, hypomyelinating, 5	HP:0001250	Seizure
+1268	610532	Leukodystrophy, hypomyelinating, 5	HP:0030147	Truncal titubation
+1261	610532	Leukodystrophy, hypomyelinating, 5	HP:0000519	Developmental cataract
+1152	610532	Leukodystrophy, hypomyelinating, 5	HP:0002080	Intention tremor
+481	610532	Leukodystrophy, hypomyelinating, 5	HP:0003828	Variable expressivity
+1142	610532	Leukodystrophy, hypomyelinating, 5	HP:0001270	Motor delay
+734	610532	Leukodystrophy, hypomyelinating, 5	HP:0003593	Infantile onset
+812	610532	Leukodystrophy, hypomyelinating, 5	HP:0008936	Axial hypotonia
+139	610532	Leukodystrophy, hypomyelinating, 5	HP:0002415	Leukodystrophy
+1171	610532	Leukodystrophy, hypomyelinating, 5	HP:0003431	Decreased motor nerve conduction velocity
+291	610532	Leukodystrophy, hypomyelinating, 5	HP:0001249	Intellectual disability
+1267	610532	Leukodystrophy, hypomyelinating, 5	HP:0012762	Cerebral white matter atrophy
+99	610532	Leukodystrophy, hypomyelinating, 5	HP:0001317	Abnormal cerebellum morphology
+424	610532	Leukodystrophy, hypomyelinating, 5	HP:0001271	Polyneuropathy
+1263	610532	Leukodystrophy, hypomyelinating, 5	HP:0006957	Loss of ability to walk
+1265	610532	Leukodystrophy, hypomyelinating, 5	HP:0007210	Lower limb amyotrophy
+386	610532	Leukodystrophy, hypomyelinating, 5	HP:0001263	Global developmental delay
+1266	610532	Leukodystrophy, hypomyelinating, 5	HP:0007340	Lower limb muscle weakness
+107	610532	Leukodystrophy, hypomyelinating, 5	HP:0001347	Hyperreflexia
+1262	610532	Leukodystrophy, hypomyelinating, 5	HP:0003383	Onion bulb formation
+1286	610678	Combined oxidative phosphorylation deficiency 4	HP:0002179	Opisthotonus
+735	610678	Combined oxidative phosphorylation deficiency 4	HP:0003593	Infantile onset
+570	610678	Combined oxidative phosphorylation deficiency 4	HP:0000252	Microcephaly
+877	610678	Combined oxidative phosphorylation deficiency 4	HP:0002151	Increased serum lactate
+24	610678	Combined oxidative phosphorylation deficiency 4	HP:0000639	Nystagmus
+887	610678	Combined oxidative phosphorylation deficiency 4	HP:0003128	Lactic acidosis
+855	610678	Combined oxidative phosphorylation deficiency 4	HP:0001319	Neonatal hypotonia
+1276	610678	Combined oxidative phosphorylation deficiency 4	HP:0001942	Metabolic acidosis
+716	610678	Combined oxidative phosphorylation deficiency 4	HP:0002878	Respiratory failure
+237	610678	Combined oxidative phosphorylation deficiency 4	HP:0000007	Autosomal recessive inheritance
+1270	610678	Combined oxidative phosphorylation deficiency 4	HP:0001298	Encephalopathy
+1235	610678	Combined oxidative phosphorylation deficiency 4	HP:0001511	Intrauterine growth retardation
+140	610678	Combined oxidative phosphorylation deficiency 4	HP:0002415	Leukodystrophy
+670	610678	Combined oxidative phosphorylation deficiency 4	HP:0001522	Death in infancy
+700	610678	Combined oxidative phosphorylation deficiency 4	HP:0002240	Hepatomegaly
+465	610678	Combined oxidative phosphorylation deficiency 4	HP:0002376	Developmental regression
+1283	610678	Combined oxidative phosphorylation deficiency 4	HP:0002126	Polymicrogyria
+1281	610678	Combined oxidative phosphorylation deficiency 4	HP:0001987	Hyperammonemia
+1288	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0000939	Osteoporosis
+501	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0000648	Optic atrophy
+58	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001251	Ataxia
+1302	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002301	Hemiplegia
+1301	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002164	Nail dysplasia
+1295	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001903	Anemia
+1290	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001337	Tremor
+1240	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001873	Thrombocytopenia
+703	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002352	Leukoencephalopathy
+141	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002415	Leukodystrophy
+614	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0000618	Blindness
+1236	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001511	Intrauterine growth retardation
+1035	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0004322	Short stature
+1289	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0000963	Thin skin
+1287	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0000938	Osteopenia
+1297	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002071	Abnormality of extrapyramidal motor function
+1296	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002062	Morphological abnormality of the pyramidal tract
+78	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001257	Spasticity
+1243	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002514	Cerebral calcification
+804	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0007256	Abnormal pyramidal sign
+1308	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002857	Genu valgum
+1313	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0008070	Sparse hair
+238	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0000007	Autosomal recessive inheritance
+1312	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0007898	Exudative retinopathy
+1311	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0007763	Retinal telangiectasia
+1310	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0005528	Bone marrow hypocellularity
+1309	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0004979	Metaphyseal sclerosis
+418	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001268	Mental deterioration
+1307	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002756	Pathologic fracture
+1306	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002745	Oral leukoplakia
+322	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001250	Seizure
+1305	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002659	Increased susceptibility to fractures
+1304	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002584	Intestinal bleeding
+529	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001332	Dystonia
+736	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0003593	Infantile onset
+198	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0003676	Progressive
+1314	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0008897	Postnatal growth retardation
+360	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0001260	Dysarthria
+1079	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0002650	Scoliosis
+1050	612199	Cerebroretinal microangiopathy with calcifications and cysts	HP:0100864	Short femoral neck
+25	612233	Leukodystrophy, hypomyelinating, 4	HP:0000639	Nystagmus
+1210	612233	Leukodystrophy, hypomyelinating, 4	HP:0003623	Neonatal onset
+690	612233	Leukodystrophy, hypomyelinating, 4	HP:0002104	Apnea
+323	612233	Leukodystrophy, hypomyelinating, 4	HP:0001250	Seizure
+142	612233	Leukodystrophy, hypomyelinating, 4	HP:0002415	Leukodystrophy
+760	612233	Leukodystrophy, hypomyelinating, 4	HP:0008872	Feeding difficulties in infancy
+1315	612233	Leukodystrophy, hypomyelinating, 4	HP:0002187	Intellectual disability, profound
+917	612233	Leukodystrophy, hypomyelinating, 4	HP:0001266	Choreoathetosis
+432	612233	Leukodystrophy, hypomyelinating, 4	HP:0001290	Generalized hypotonia
+1159	612233	Leukodystrophy, hypomyelinating, 4	HP:0002191	Progressive spasticity
+239	612233	Leukodystrophy, hypomyelinating, 4	HP:0000007	Autosomal recessive inheritance
+108	612233	Leukodystrophy, hypomyelinating, 4	HP:0001347	Hyperreflexia
+184	612233	Leukodystrophy, hypomyelinating, 4	HP:0003487	Babinski sign
+1317	612233	Leukodystrophy, hypomyelinating, 4	HP:0005484	Secondary microcephaly
+990	612233	Leukodystrophy, hypomyelinating, 4	HP:0001371	Flexion contracture
+597	612233	Leukodystrophy, hypomyelinating, 4	HP:0000486	Strabismus
+387	612233	Leukodystrophy, hypomyelinating, 4	HP:0001263	Global developmental delay
+352	612233	Leukodystrophy, hypomyelinating, 4	HP:0001252	Hypotonia
+324	612319	Spastic paraplegia 35, autosomal recessive	HP:0001250	Seizure
+1003	612319	Spastic paraplegia 35, autosomal recessive	HP:0002079	Hypoplasia of the corpus callosum
+1324	612319	Spastic paraplegia 35, autosomal recessive	HP:0002180	Neurodegeneration
+1331	612319	Spastic paraplegia 35, autosomal recessive	HP:0033725	Thin corpus callosum
+1325	612319	Spastic paraplegia 35, autosomal recessive	HP:0002355	Difficulty walking
+1327	612319	Spastic paraplegia 35, autosomal recessive	HP:0003621	Juvenile onset
+476	612319	Spastic paraplegia 35, autosomal recessive	HP:0002518	Abnormal periventricular white matter morphology
+1330	612319	Spastic paraplegia 35, autosomal recessive	HP:0011448	Ankle clonus
+240	612319	Spastic paraplegia 35, autosomal recessive	HP:0000007	Autosomal recessive inheritance
+530	612319	Spastic paraplegia 35, autosomal recessive	HP:0001332	Dystonia
+1322	612319	Spastic paraplegia 35, autosomal recessive	HP:0002075	Dysdiadochokinesis
+1328	612319	Spastic paraplegia 35, autosomal recessive	HP:0007366	Atrophy/Degeneration affecting the brainstem
+960	612319	Spastic paraplegia 35, autosomal recessive	HP:0011463	Childhood onset
+59	612319	Spastic paraplegia 35, autosomal recessive	HP:0001251	Ataxia
+361	612319	Spastic paraplegia 35, autosomal recessive	HP:0001260	Dysarthria
+1321	612319	Spastic paraplegia 35, autosomal recessive	HP:0000544	External ophthalmoplegia
+8	612319	Spastic paraplegia 35, autosomal recessive	HP:0000012	Urinary urgency
+629	612319	Spastic paraplegia 35, autosomal recessive	HP:0001272	Cerebellar atrophy
+12	612319	Spastic paraplegia 35, autosomal recessive	HP:0000020	Urinary incontinence
+185	612319	Spastic paraplegia 35, autosomal recessive	HP:0003487	Babinski sign
+1119	612319	Spastic paraplegia 35, autosomal recessive	HP:0001310	Dysmetria
+426	612319	Spastic paraplegia 35, autosomal recessive	HP:0001285	Spastic tetraparesis
+1058	612319	Spastic paraplegia 35, autosomal recessive	HP:0001258	Spastic paraplegia
+419	612319	Spastic paraplegia 35, autosomal recessive	HP:0001268	Mental deterioration
+1215	612319	Spastic paraplegia 35, autosomal recessive	HP:0006978	Dysmyelinating leukodystrophy
+292	612319	Spastic paraplegia 35, autosomal recessive	HP:0001249	Intellectual disability
+26	612319	Spastic paraplegia 35, autosomal recessive	HP:0000639	Nystagmus
+598	612319	Spastic paraplegia 35, autosomal recessive	HP:0000486	Strabismus
+502	612319	Spastic paraplegia 35, autosomal recessive	HP:0000648	Optic atrophy
+199	612319	Spastic paraplegia 35, autosomal recessive	HP:0003676	Progressive
+27	612438	Leukodystrophy, hypomyelinating, 6	HP:0000639	Nystagmus
+813	612438	Leukodystrophy, hypomyelinating, 6	HP:0008936	Axial hypotonia
+362	612438	Leukodystrophy, hypomyelinating, 6	HP:0001260	Dysarthria
+1340	612438	Leukodystrophy, hypomyelinating, 6	HP:0003745	Sporadic
+3	612438	Leukodystrophy, hypomyelinating, 6	HP:0000006	Autosomal dominant inheritance
+200	612438	Leukodystrophy, hypomyelinating, 6	HP:0003676	Progressive
+1094	612438	Leukodystrophy, hypomyelinating, 6	HP:0000750	Delayed speech and language development
+1143	612438	Leukodystrophy, hypomyelinating, 6	HP:0001270	Motor delay
+143	612438	Leukodystrophy, hypomyelinating, 6	HP:0002415	Leukodystrophy
+482	612438	Leukodystrophy, hypomyelinating, 6	HP:0003828	Variable expressivity
+776	612438	Leukodystrophy, hypomyelinating, 6	HP:0000505	Visual impairment
+1036	612438	Leukodystrophy, hypomyelinating, 6	HP:0004322	Short stature
+60	612438	Leukodystrophy, hypomyelinating, 6	HP:0001251	Ataxia
+503	612438	Leukodystrophy, hypomyelinating, 6	HP:0000648	Optic atrophy
+1291	612438	Leukodystrophy, hypomyelinating, 6	HP:0001337	Tremor
+1162	612438	Leukodystrophy, hypomyelinating, 6	HP:0002465	Poor speech
+918	612438	Leukodystrophy, hypomyelinating, 6	HP:0001266	Choreoathetosis
+630	612438	Leukodystrophy, hypomyelinating, 6	HP:0001272	Cerebellar atrophy
+293	612438	Leukodystrophy, hypomyelinating, 6	HP:0001249	Intellectual disability
+1149	612438	Leukodystrophy, hypomyelinating, 6	HP:0002063	Rigidity
+1338	612438	Leukodystrophy, hypomyelinating, 6	HP:0001328	Specific learning disability
+79	612438	Leukodystrophy, hypomyelinating, 6	HP:0001257	Spasticity
+571	612438	Leukodystrophy, hypomyelinating, 6	HP:0000252	Microcephaly
+1333	612438	Leukodystrophy, hypomyelinating, 6	HP:0000365	Hearing impairment
+325	612438	Leukodystrophy, hypomyelinating, 6	HP:0001250	Seizure
+531	612438	Leukodystrophy, hypomyelinating, 6	HP:0001332	Dystonia
+1173	612438	Leukodystrophy, hypomyelinating, 6	HP:0006808	Cerebral hypomyelination
+1344	613163	GABA-transaminase deficiency	HP:0000494	Downslanted palpebral fissures
+109	613163	GABA-transaminase deficiency	HP:0001347	Hyperreflexia
+1341	613163	GABA-transaminase deficiency	HP:0000098	Tall stature
+1348	613163	GABA-transaminase deficiency	HP:0001321	Cerebellar hypoplasia
+1349	613163	GABA-transaminase deficiency	HP:0006829	Severe muscular hypotonia
+620	613163	GABA-transaminase deficiency	HP:0001254	Lethargy
+1352	613163	GABA-transaminase deficiency	HP:0007291	Posterior fossa cyst
+1353	613163	GABA-transaminase deficiency	HP:0025430	High-pitched cry
+905	613163	GABA-transaminase deficiency	HP:0025356	Psychomotor retardation
+1347	613163	GABA-transaminase deficiency	HP:0001274	Agenesis of corpus callosum
+144	613163	GABA-transaminase deficiency	HP:0002415	Leukodystrophy
+241	613163	GABA-transaminase deficiency	HP:0000007	Autosomal recessive inheritance
+1342	613163	GABA-transaminase deficiency	HP:0000278	Retrognathia
+388	613163	GABA-transaminase deficiency	HP:0001263	Global developmental delay
+1248	613163	GABA-transaminase deficiency	HP:0003819	Death in childhood
+326	613163	GABA-transaminase deficiency	HP:0001250	Seizure
+327	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001250	Seizure
+433	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001290	Generalized hypotonia
+717	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002878	Respiratory failure
+888	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0003128	Lactic acidosis
+1362	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0200134	Epileptic encephalopathy
+1359	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001644	Dilated cardiomyopathy
+466	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002376	Developmental regression
+621	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001254	Lethargy
+708	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002421	Poor head control
+504	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0000648	Optic atrophy
+737	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0003593	Infantile onset
+1194	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001336	Myoclonus
+777	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0000505	Visual impairment
+1361	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0008972	Decreased activity of mitochondrial respiratory chain
+1354	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001639	Hypertrophic cardiomyopathy
+701	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002240	Hepatomegaly
+671	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001522	Death in infancy
+61	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001251	Ataxia
+1298	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002071	Abnormality of extrapyramidal motor function
+242	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0000007	Autosomal recessive inheritance
+145	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002415	Leukodystrophy
+389	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001263	Global developmental delay
+80	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0001257	Spasticity
+679	614299	Multiple mitochondrial dysfunctions syndrome 2 with hyperglycinemia	HP:0002013	Vomiting
+1037	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0004322	Short stature
+1105	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000044	Hypogonadotropic hypogonadism
+1120	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001310	Dysmetria
+81	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001257	Spasticity
+1372	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0011003	High myopia
+1174	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0006808	Cerebral hypomyelination
+1116	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000677	Oligodontia
+1095	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000750	Delayed speech and language development
+390	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001263	Global developmental delay
+897	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0003577	Congenital onset
+1370	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0006855	Cerebellar vermis atrophy
+505	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000648	Optic atrophy
+1368	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002342	Intellectual disability, moderate
+660	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001510	Growth delay
+363	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001260	Dysarthria
+364	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001260	Dysarthria
+243	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000007	Autosomal recessive inheritance
+1153	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002080	Intention tremor
+961	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0011463	Childhood onset
+110	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001347	Hyperreflexia
+1369	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002827	Hip dislocation
+805	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0007256	Abnormal pyramidal sign
+532	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001332	Dystonia
+1323	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002075	Dysdiadochokinesis
+146	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002415	Leukodystrophy
+451	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002015	Dysphagia
+1367	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001256	Intellectual disability, mild
+1366	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001151	Impaired horizontal smooth pursuit
+1365	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000695	Natal tooth
+1004	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002079	Hypoplasia of the corpus callosum
+1121	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0001310	Dysmetria
+1364	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000684	Delayed eruption of teeth
+1133	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0003429	CNS hypomyelination
+1363	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0000666	Horizontal nystagmus
+457	614381	Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	HP:0002066	Gait ataxia
+991	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001371	Flexion contracture
+244	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0000007	Autosomal recessive inheritance
+1195	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001336	Myoclonus
+822	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0011344	Severe global developmental delay
+929	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002059	Cerebral atrophy
+889	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0003128	Lactic acidosis
+328	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001250	Seizure
+878	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002151	Increased serum lactate
+1144	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001270	Motor delay
+1271	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001298	Encephalopathy
+554	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002510	Spastic tetraplegia
+1250	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0011968	Feeding difficulties
+685	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002093	Respiratory insufficiency
+691	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002104	Apnea
+661	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001510	Growth delay
+147	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002415	Leukodystrophy
+434	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001290	Generalized hypotonia
+1374	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0012736	Profound global developmental delay
+572	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0000252	Microcephaly
+1373	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0002360	Sleep disturbance
+1355	614462	Hyperglycinemia, lactic acidosis, and seizures	HP:0001639	Hypertrophic cardiomyopathy
+148	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0002415	Leukodystrophy
+62	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001251	Ataxia
+1244	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0002514	Cerebral calcification
+391	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001263	Global developmental delay
+1299	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0002071	Abnormality of extrapyramidal motor function
+806	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0007256	Abnormal pyramidal sign
+329	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001250	Seizure
+704	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0002352	Leukoencephalopathy
+1303	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0002301	Hemiplegia
+483	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0003828	Variable expressivity
+1292	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001337	Tremor
+365	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001260	Dysarthria
+420	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001268	Mental deterioration
+245	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0000007	Autosomal recessive inheritance
+533	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001332	Dystonia
+522	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001288	Gait disturbance
+82	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0001257	Spasticity
+201	614561	Leukoencephalopathy, brain calcifications, and cysts	HP:0003676	Progressive
+1383	614877	Peroxisome biogenesis disorder 8B	HP:0008167	Very long chain fatty acid accumulation
+123	614877	Peroxisome biogenesis disorder 8B	HP:0002019	Constipation
+366	614877	Peroxisome biogenesis disorder 8B	HP:0001260	Dysarthria
+590	614877	Peroxisome biogenesis disorder 8B	HP:0000407	Sensorineural hearing impairment
+1382	614877	Peroxisome biogenesis disorder 8B	HP:0001410	Decreased liver function
+1380	614877	Peroxisome biogenesis disorder 8B	HP:0000556	Retinal dystrophy
+392	614877	Peroxisome biogenesis disorder 8B	HP:0001263	Global developmental delay
+452	614877	Peroxisome biogenesis disorder 8B	HP:0002015	Dysphagia
+506	614877	Peroxisome biogenesis disorder 8B	HP:0000648	Optic atrophy
+1376	614877	Peroxisome biogenesis disorder 8B	HP:0000518	Cataract
+149	614877	Peroxisome biogenesis disorder 8B	HP:0002415	Leukodystrophy
+856	614877	Peroxisome biogenesis disorder 8B	HP:0001319	Neonatal hypotonia
+778	614877	Peroxisome biogenesis disorder 8B	HP:0000505	Visual impairment
+1371	614877	Peroxisome biogenesis disorder 8B	HP:0006855	Cerebellar vermis atrophy
+202	614877	Peroxisome biogenesis disorder 8B	HP:0003676	Progressive
+1122	614877	Peroxisome biogenesis disorder 8B	HP:0001310	Dysmetria
+1179	614877	Peroxisome biogenesis disorder 8B	HP:0100543	Cognitive impairment
+790	614877	Peroxisome biogenesis disorder 8B	HP:0002313	Spastic paraparesis
+246	614877	Peroxisome biogenesis disorder 8B	HP:0000007	Autosomal recessive inheritance
+648	614877	Peroxisome biogenesis disorder 8B	HP:0001508	Failure to thrive
+220	614877	Peroxisome biogenesis disorder 8B	HP:0007371	Corpus callosum atrophy
+28	614877	Peroxisome biogenesis disorder 8B	HP:0000639	Nystagmus
+919	614932	Combined oxidative phosphorylation deficiency 13	HP:0001266	Choreoathetosis
+309	614932	Combined oxidative phosphorylation deficiency 13	HP:0000762	Decreased nerve conduction velocity
+1272	614932	Combined oxidative phosphorylation deficiency 13	HP:0001298	Encephalopathy
+662	614932	Combined oxidative phosphorylation deficiency 13	HP:0001510	Growth delay
+1350	614932	Combined oxidative phosphorylation deficiency 13	HP:0006829	Severe muscular hypotonia
+879	614932	Combined oxidative phosphorylation deficiency 13	HP:0002151	Increased serum lactate
+150	614932	Combined oxidative phosphorylation deficiency 13	HP:0002415	Leukodystrophy
+247	614932	Combined oxidative phosphorylation deficiency 13	HP:0000007	Autosomal recessive inheritance
+534	614932	Combined oxidative phosphorylation deficiency 13	HP:0001332	Dystonia
+591	614932	Combined oxidative phosphorylation deficiency 13	HP:0000407	Sensorineural hearing impairment
+738	614932	Combined oxidative phosphorylation deficiency 13	HP:0003593	Infantile onset
+413	614932	Combined oxidative phosphorylation deficiency 13	HP:0001265	Hyporeflexia
+29	614932	Combined oxidative phosphorylation deficiency 13	HP:0000639	Nystagmus
+722	614932	Combined oxidative phosphorylation deficiency 13	HP:0003202	Skeletal muscle atrophy
+761	614932	Combined oxidative phosphorylation deficiency 13	HP:0008872	Feeding difficulties in infancy
+814	614932	Combined oxidative phosphorylation deficiency 13	HP:0008936	Axial hypotonia
+1377	614932	Combined oxidative phosphorylation deficiency 13	HP:0000518	Cataract
+1385	614932	Combined oxidative phosphorylation deficiency 13	HP:0001344	Absent speech
+709	614932	Combined oxidative phosphorylation deficiency 13	HP:0002421	Poor head control
+1395	614932	Combined oxidative phosphorylation deficiency 13	HP:0006558	Decreased mitochondrial complex III activity in liver tissue
+713	614932	Combined oxidative phosphorylation deficiency 13	HP:0002490	Increased CSF lactate
+769	614932	Combined oxidative phosphorylation deficiency 13	HP:0100660	Dyskinesia
+461	615010	Aicardi-Goutieres syndrome 6	HP:0002371	Loss of speech
+535	615010	Aicardi-Goutieres syndrome 6	HP:0001332	Dystonia
+151	615010	Aicardi-Goutieres syndrome 6	HP:0002415	Leukodystrophy
+1150	615010	Aicardi-Goutieres syndrome 6	HP:0002063	Rigidity
+248	615010	Aicardi-Goutieres syndrome 6	HP:0000007	Autosomal recessive inheritance
+1396	615010	Aicardi-Goutieres syndrome 6	HP:0001878	Hemolytic anemia
+1264	615010	Aicardi-Goutieres syndrome 6	HP:0006957	Loss of ability to walk
+30	615010	Aicardi-Goutieres syndrome 6	HP:0000639	Nystagmus
+1245	615010	Aicardi-Goutieres syndrome 6	HP:0002514	Cerebral calcification
+1293	615010	Aicardi-Goutieres syndrome 6	HP:0001337	Tremor
+573	615010	Aicardi-Goutieres syndrome 6	HP:0000252	Microcephaly
+467	615010	Aicardi-Goutieres syndrome 6	HP:0002376	Developmental regression
+393	615010	Aicardi-Goutieres syndrome 6	HP:0001263	Global developmental delay
+930	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002059	Cerebral atrophy
+890	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0003128	Lactic acidosis
+1398	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0001561	Polyhydramnios
+898	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0003577	Congenital onset
+152	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002415	Leukodystrophy
+555	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002510	Spastic tetraplegia
+574	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000252	Microcephaly
+971	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000218	High palate
+31	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000639	Nystagmus
+507	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000648	Optic atrophy
+249	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000007	Autosomal recessive inheritance
+779	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000505	Visual impairment
+1284	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002126	Polymicrogyria
+1400	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0001954	Recurrent fever
+468	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002376	Developmental regression
+330	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0001250	Seizure
+1401	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0003287	Abnormality of mitochondrial metabolism
+1251	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0011968	Feeding difficulties
+1351	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0006829	Severe muscular hypotonia
+1402	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0006610	Wide intermamillary distance
+1397	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000969	Edema
+1237	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0001511	Intrauterine growth retardation
+1343	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000278	Retrognathia
+797	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002804	Arthrogryposis multiplex congenita
+484	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0003828	Variable expressivity
+1277	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0001942	Metabolic acidosis
+203	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0003676	Progressive
+718	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002878	Respiratory failure
+1180	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0100543	Cognitive impairment
+846	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0000737	Irritability
+1273	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0001298	Encephalopathy
+1005	615330	Multiple mitochondrial dysfunctions syndrome 3	HP:0002079	Hypoplasia of the corpus callosum
+1089	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000286	Epicanthus
+920	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001266	Choreoathetosis
+1345	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000494	Downslanted palpebral fissures
+1356	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001639	Hypertrophic cardiomyopathy
+394	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001263	Global developmental delay
+1378	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000518	Cataract
+931	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002059	Cerebral atrophy
+980	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000574	Thick eyebrow
+575	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000252	Microcephaly
+536	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001332	Dystonia
+250	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000007	Autosomal recessive inheritance
+435	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001290	Generalized hypotonia
+1006	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002079	Hypoplasia of the corpus callosum
+453	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002015	Dysphagia
+564	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000047	Hypospadias
+1080	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002650	Scoliosis
+1408	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001773	Short foot
+331	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001250	Seizure
+1420	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0200125	Mitochondrial respiratory chain defects
+880	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002151	Increased serum lactate
+1411	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002020	Gastroesophageal reflux
+63	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001251	Ataxia
+1407	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001518	Small for gestational age
+1416	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0012448	Delayed myelination
+1415	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0011675	Arrhythmia
+727	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0003348	Hyperalaninemia
+1406	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001357	Plagiocephaly
+1403	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000232	Everted lower lip vermilion
+1404	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000275	Narrow face
+1414	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0011120	Concave nasal ridge
+723	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0003202	Skeletal muscle atrophy
+1410	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001947	Renal tubular acidosis
+1405	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000411	Protruding ear
+1409	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001875	Neutropenia
+861	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002910	Elevated hepatic transaminase
+153	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002415	Leukodystrophy
+663	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001510	Growth delay
+891	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0003128	Lactic acidosis
+631	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001272	Cerebellar atrophy
+649	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001508	Failure to thrive
+32	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0000639	Nystagmus
+1274	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0001298	Encephalopathy
+1413	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0002719	Recurrent infections
+823	615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	HP:0011344	Severe global developmental delay
+650	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001508	Failure to thrive
+940	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0002119	Ventriculomegaly
+537	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001332	Dystonia
+1275	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001298	Encephalopathy
+932	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0002059	Cerebral atrophy
+395	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001263	Global developmental delay
+549	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0002445	Tetraplegia
+332	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001250	Seizure
+576	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0000252	Microcephaly
+857	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001319	Neonatal hypotonia
+251	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0000007	Autosomal recessive inheritance
+33	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0000639	Nystagmus
+1422	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0008315	Decreased plasma free carnitine
+1421	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0002161	Hyperlysinemia
+1423	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0100704	Cerebral visual impairment
+83	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001257	Spasticity
+672	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001522	Death in infancy
+154	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0002415	Leukodystrophy
+921	616034	2,4-Dienoyl-Coa reductase deficiency	HP:0001266	Choreoathetosis
+1123	616140	Leukodystrophy, hypomyelinating, 9	HP:0001310	Dysmetria
+111	616140	Leukodystrophy, hypomyelinating, 9	HP:0001347	Hyperreflexia
+485	616140	Leukodystrophy, hypomyelinating, 9	HP:0003828	Variable expressivity
+252	616140	Leukodystrophy, hypomyelinating, 9	HP:0000007	Autosomal recessive inheritance
+1154	616140	Leukodystrophy, hypomyelinating, 9	HP:0002080	Intention tremor
+155	616140	Leukodystrophy, hypomyelinating, 9	HP:0002415	Leukodystrophy
+1007	616140	Leukodystrophy, hypomyelinating, 9	HP:0002079	Hypoplasia of the corpus callosum
+367	616140	Leukodystrophy, hypomyelinating, 9	HP:0001260	Dysarthria
+294	616140	Leukodystrophy, hypomyelinating, 9	HP:0001249	Intellectual disability
+84	616140	Leukodystrophy, hypomyelinating, 9	HP:0001257	Spasticity
+396	616140	Leukodystrophy, hypomyelinating, 9	HP:0001263	Global developmental delay
+577	616140	Leukodystrophy, hypomyelinating, 9	HP:0000252	Microcephaly
+1300	616140	Leukodystrophy, hypomyelinating, 9	HP:0002071	Abnormality of extrapyramidal motor function
+34	616140	Leukodystrophy, hypomyelinating, 9	HP:0000639	Nystagmus
+253	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0000007	Autosomal recessive inheritance
+1426	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0031358	Vegetative state
+508	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0000648	Optic atrophy
+112	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0001347	Hyperreflexia
+85	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0001257	Spasticity
+780	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0000505	Visual impairment
+35	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0000639	Nystagmus
+156	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0002415	Leukodystrophy
+204	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0003676	Progressive
+1386	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0001344	Absent speech
+436	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0001290	Generalized hypotonia
+477	616370	Multiple mitochondrial dysfunctions syndrome 4	HP:0002518	Abnormal periventricular white matter morphology
+1429	616420	Leukodystrophy, hypomyelinating, 10	HP:0000325	Triangular face
+1427	616420	Leukodystrophy, hypomyelinating, 10	HP:0000319	Smooth philtrum
+833	616420	Leukodystrophy, hypomyelinating, 10	HP:0000369	Low-set ears
+397	616420	Leukodystrophy, hypomyelinating, 10	HP:0001263	Global developmental delay
+651	616420	Leukodystrophy, hypomyelinating, 10	HP:0001508	Failure to thrive
+1134	616420	Leukodystrophy, hypomyelinating, 10	HP:0003429	CNS hypomyelination
+113	616420	Leukodystrophy, hypomyelinating, 10	HP:0001347	Hyperreflexia
+36	616420	Leukodystrophy, hypomyelinating, 10	HP:0000639	Nystagmus
+86	616420	Leukodystrophy, hypomyelinating, 10	HP:0001257	Spasticity
+1008	616420	Leukodystrophy, hypomyelinating, 10	HP:0002079	Hypoplasia of the corpus callosum
+1430	616420	Leukodystrophy, hypomyelinating, 10	HP:0000343	Long philtrum
+1346	616420	Leukodystrophy, hypomyelinating, 10	HP:0000494	Downslanted palpebral fissures
+1431	616420	Leukodystrophy, hypomyelinating, 10	HP:0000414	Bulbous nose
+1437	616420	Leukodystrophy, hypomyelinating, 10	HP:0012471	Thick vermilion border
+1052	616420	Leukodystrophy, hypomyelinating, 10	HP:0000341	Narrow forehead
+186	616420	Leukodystrophy, hypomyelinating, 10	HP:0003487	Babinski sign
+157	616420	Leukodystrophy, hypomyelinating, 10	HP:0002415	Leukodystrophy
+1334	616420	Leukodystrophy, hypomyelinating, 10	HP:0000365	Hearing impairment
+1436	616420	Leukodystrophy, hypomyelinating, 10	HP:0003196	Short nose
+612	616420	Leukodystrophy, hypomyelinating, 10	HP:0000582	Upslanted palpebral fissure
+815	616420	Leukodystrophy, hypomyelinating, 10	HP:0008936	Axial hypotonia
+1434	616420	Leukodystrophy, hypomyelinating, 10	HP:0001166	Arachnodactyly
+724	616420	Leukodystrophy, hypomyelinating, 10	HP:0003202	Skeletal muscle atrophy
+1073	616420	Leukodystrophy, hypomyelinating, 10	HP:0002540	Inability to walk
+1387	616420	Leukodystrophy, hypomyelinating, 10	HP:0001344	Absent speech
+1129	616420	Leukodystrophy, hypomyelinating, 10	HP:0002120	Cerebral cortical atrophy
+333	616420	Leukodystrophy, hypomyelinating, 10	HP:0001250	Seizure
+1230	616420	Leukodystrophy, hypomyelinating, 10	HP:0000253	Progressive microcephaly
+974	616420	Leukodystrophy, hypomyelinating, 10	HP:0000272	Malar flattening
+254	616420	Leukodystrophy, hypomyelinating, 10	HP:0000007	Autosomal recessive inheritance
+205	616420	Leukodystrophy, hypomyelinating, 10	HP:0003676	Progressive
+1432	616420	Leukodystrophy, hypomyelinating, 10	HP:0000463	Anteverted nares
+1435	616420	Leukodystrophy, hypomyelinating, 10	HP:0002487	Hyperkinetic movements
+739	616494	Leukodystrophy, hypomyelinating, 11	HP:0003593	Infantile onset
+1196	616494	Leukodystrophy, hypomyelinating, 11	HP:0001336	Myoclonus
+64	616494	Leukodystrophy, hypomyelinating, 11	HP:0001251	Ataxia
+398	616494	Leukodystrophy, hypomyelinating, 11	HP:0001263	Global developmental delay
+1110	616494	Leukodystrophy, hypomyelinating, 11	HP:0000545	Myopia
+1009	616494	Leukodystrophy, hypomyelinating, 11	HP:0002079	Hypoplasia of the corpus callosum
+1135	616494	Leukodystrophy, hypomyelinating, 11	HP:0003429	CNS hypomyelination
+1440	616494	Leukodystrophy, hypomyelinating, 11	HP:0031936	Delayed ability to walk
+962	616494	Leukodystrophy, hypomyelinating, 11	HP:0011463	Childhood onset
+1439	616494	Leukodystrophy, hypomyelinating, 11	HP:0000164	Abnormality of the dentition
+632	616494	Leukodystrophy, hypomyelinating, 11	HP:0001272	Cerebellar atrophy
+158	616494	Leukodystrophy, hypomyelinating, 11	HP:0002415	Leukodystrophy
+255	616494	Leukodystrophy, hypomyelinating, 11	HP:0000007	Autosomal recessive inheritance
+1294	616494	Leukodystrophy, hypomyelinating, 11	HP:0001337	Tremor
+87	616494	Leukodystrophy, hypomyelinating, 11	HP:0001257	Spasticity
+652	616494	Leukodystrophy, hypomyelinating, 11	HP:0001508	Failure to thrive
+295	616494	Leukodystrophy, hypomyelinating, 11	HP:0001249	Intellectual disability
+1443	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0000268	Dolichocephaly
+1449	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0001762	Talipes equinovarus
+1453	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0008796	Externally rotated hips
+1450	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0002089	Pulmonary hypoplasia
+1458	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0012650	Perisylvian polymicrogyria
+1457	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0012454	Unilateral wrist flexion contracture
+1456	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0010945	Fetal pyelectasis
+1455	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0010557	Overlapping fingers
+1454	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0010292	Absent uvula
+798	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0002804	Arthrogryposis multiplex congenita
+1452	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0007033	Cerebellar dysplasia
+1445	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0000347	Micrognathia
+1451	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0006380	Knee flexion contracture
+1224	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0011461	Fetal onset
+256	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0000007	Autosomal recessive inheritance
+941	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0002119	Ventriculomegaly
+1447	616531	Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	HP:0001320	Cerebellar vermis hypoplasia
+1111	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000545	Myopia
+942	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002119	Ventriculomegaly
+1379	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000518	Cataract
+719	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002878	Respiratory failure
+1381	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000556	Retinal dystrophy
+1228	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000238	Hydrocephalus
+1466	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0031882	Agyria
+399	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0001263	Global developmental delay
+1246	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002514	Cerebral calcification
+1465	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0003560	Muscular dystrophy
+159	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002415	Leukodystrophy
+1463	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0003236	Elevated circulating creatine kinase concentration
+1462	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002350	Cerebellar cyst
+740	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0003593	Infantile onset
+1461	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000568	Microphthalmia
+257	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000007	Autosomal recessive inheritance
+1285	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002126	Polymicrogyria
+1388	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0001344	Absent speech
+1010	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002079	Hypoplasia of the corpus callosum
+710	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0002421	Poor head control
+437	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0001290	Generalized hypotonia
+486	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0003828	Variable expressivity
+1459	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000256	Macrocephaly
+1460	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0000557	Buphthalmos
+1448	616538	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 9	HP:0001320	Cerebellar vermis hypoplasia
+1473	616683	Leukodystrophy, hypomyelinating, 12	HP:0007663	Reduced visual acuity
+1471	616683	Leukodystrophy, hypomyelinating, 12	HP:0007281	Developmental stagnation
+1011	616683	Leukodystrophy, hypomyelinating, 12	HP:0002079	Hypoplasia of the corpus callosum
+633	616683	Leukodystrophy, hypomyelinating, 12	HP:0001272	Cerebellar atrophy
+1424	616683	Leukodystrophy, hypomyelinating, 12	HP:0100704	Cerebral visual impairment
+1175	616683	Leukodystrophy, hypomyelinating, 12	HP:0006808	Cerebral hypomyelination
+296	616683	Leukodystrophy, hypomyelinating, 12	HP:0001249	Intellectual disability
+258	616683	Leukodystrophy, hypomyelinating, 12	HP:0000007	Autosomal recessive inheritance
+88	616683	Leukodystrophy, hypomyelinating, 12	HP:0001257	Spasticity
+992	616683	Leukodystrophy, hypomyelinating, 12	HP:0001371	Flexion contracture
+1226	616683	Leukodystrophy, hypomyelinating, 12	HP:0012332	Abnormal autonomic nervous system physiology
+1417	616683	Leukodystrophy, hypomyelinating, 12	HP:0012448	Delayed myelination
+824	616683	Leukodystrophy, hypomyelinating, 12	HP:0011344	Severe global developmental delay
+1389	616683	Leukodystrophy, hypomyelinating, 12	HP:0001344	Absent speech
+1318	616683	Leukodystrophy, hypomyelinating, 12	HP:0005484	Secondary microcephaly
+1163	616683	Leukodystrophy, hypomyelinating, 12	HP:0002465	Poor speech
+1467	616683	Leukodystrophy, hypomyelinating, 12	HP:0000011	Neurogenic bladder
+509	616683	Leukodystrophy, hypomyelinating, 12	HP:0000648	Optic atrophy
+1335	616683	Leukodystrophy, hypomyelinating, 12	HP:0000365	Hearing impairment
+1469	616683	Leukodystrophy, hypomyelinating, 12	HP:0002384	Focal impaired awareness seizure
+943	616683	Leukodystrophy, hypomyelinating, 12	HP:0002119	Ventriculomegaly
+1470	616683	Leukodystrophy, hypomyelinating, 12	HP:0005968	Temperature instability
+124	616683	Leukodystrophy, hypomyelinating, 12	HP:0002019	Constipation
+816	616683	Leukodystrophy, hypomyelinating, 12	HP:0008936	Axial hypotonia
+334	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0001250	Seizure
+578	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0000252	Microcephaly
+1474	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0007204	Diffuse white matter abnormalities
+259	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0000007	Autosomal recessive inheritance
+160	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0002415	Leukodystrophy
+741	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0003593	Infantile onset
+400	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0001263	Global developmental delay
+538	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0001332	Dystonia
+1375	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0012736	Profound global developmental delay
+1319	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0005484	Secondary microcephaly
+874	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0010864	Intellectual disability, severe
+37	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0000639	Nystagmus
+438	616763	Leukodystrophy and acquired microcephaly with or without dystonia	HP:0001290	Generalized hypotonia
+1475	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0001264	Spastic diplegia
+1476	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0002154	Hyperglycinemia
+1477	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0002497	Spastic ataxia
+1478	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0002928	Decreased activity of the pyruvate dehydrogenase complex
+187	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0003487	Babinski sign
+260	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0000007	Autosomal recessive inheritance
+1012	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0002079	Hypoplasia of the corpus callosum
+510	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0000648	Optic atrophy
+38	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0000639	Nystagmus
+368	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0001260	Dysarthria
+523	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0001288	Gait disturbance
+781	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0000505	Visual impairment
+599	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0000486	Strabismus
+335	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0001250	Seizure
+114	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0001347	Hyperreflexia
+161	616859	Spasticity, childhood-onset, with hyperglycinemia	HP:0002415	Leukodystrophy
+511	616881	Leukodystrophy, hypomyelinating, 13	HP:0000648	Optic atrophy
+993	616881	Leukodystrophy, hypomyelinating, 13	HP:0001371	Flexion contracture
+885	616881	Leukodystrophy, hypomyelinating, 13	HP:0002169	Clonus
+89	616881	Leukodystrophy, hypomyelinating, 13	HP:0001257	Spasticity
+653	616881	Leukodystrophy, hypomyelinating, 13	HP:0001508	Failure to thrive
+782	616881	Leukodystrophy, hypomyelinating, 13	HP:0000505	Visual impairment
+1252	616881	Leukodystrophy, hypomyelinating, 13	HP:0011968	Feeding difficulties
+1418	616881	Leukodystrophy, hypomyelinating, 13	HP:0012448	Delayed myelination
+39	616881	Leukodystrophy, hypomyelinating, 13	HP:0000639	Nystagmus
+65	616881	Leukodystrophy, hypomyelinating, 13	HP:0001251	Ataxia
+162	616881	Leukodystrophy, hypomyelinating, 13	HP:0002415	Leukodystrophy
+478	616881	Leukodystrophy, hypomyelinating, 13	HP:0002518	Abnormal periventricular white matter morphology
+742	616881	Leukodystrophy, hypomyelinating, 13	HP:0003593	Infantile onset
+439	616881	Leukodystrophy, hypomyelinating, 13	HP:0001290	Generalized hypotonia
+401	616881	Leukodystrophy, hypomyelinating, 13	HP:0001263	Global developmental delay
+1390	616881	Leukodystrophy, hypomyelinating, 13	HP:0001344	Absent speech
+261	616881	Leukodystrophy, hypomyelinating, 13	HP:0000007	Autosomal recessive inheritance
+1145	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0001270	Motor delay
+1484	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0002451	Limb dystonia
+1485	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0007941	Limited extraocular movements
+1181	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0100543	Cognitive impairment
+825	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0011344	Severe global developmental delay
+963	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0011463	Childhood onset
+163	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0002415	Leukodystrophy
+262	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0000007	Autosomal recessive inheritance
+90	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0001257	Spasticity
+1479	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0000571	Hypometric saccades
+1167	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0002599	Head titubation
+1187	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0000473	Torticollis
+634	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0001272	Cerebellar atrophy
+743	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0003593	Infantile onset
+807	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0007256	Abnormal pyramidal sign
+1482	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0002078	Truncal ataxia
+206	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0003676	Progressive
+1136	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0003429	CNS hypomyelination
+1480	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0002070	Limb ataxia
+353	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0001252	Hypotonia
+40	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0000639	Nystagmus
+115	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0001347	Hyperreflexia
+369	617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	HP:0001260	Dysarthria
+579	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0000252	Microcephaly
+744	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0003593	Infantile onset
+263	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0000007	Autosomal recessive inheritance
+664	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0001510	Growth delay
+336	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0001250	Seizure
+1253	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0011968	Feeding difficulties
+842	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0000580	Pigmentary retinopathy
+402	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0001263	Global developmental delay
+1419	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0012448	Delayed myelination
+881	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0002151	Increased serum lactate
+469	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0002376	Developmental regression
+164	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0002415	Leukodystrophy
+116	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0001347	Hyperreflexia
+91	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0001257	Spasticity
+1486	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0001302	Pachygyria
+1464	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0003236	Elevated circulating creatine kinase concentration
+207	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0003676	Progressive
+944	617613	Multiple mitochondrial dysfunctions syndrome 5	HP:0002119	Ventriculomegaly
+1013	617762	Leukodystrophy, progressive, early childhood-onset	HP:0002079	Hypoplasia of the corpus callosum
+539	617762	Leukodystrophy, progressive, early childhood-onset	HP:0001332	Dystonia
+981	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000574	Thick eyebrow
+165	617762	Leukodystrophy, progressive, early childhood-onset	HP:0002415	Leukodystrophy
+1472	617762	Leukodystrophy, progressive, early childhood-onset	HP:0007281	Developmental stagnation
+834	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000369	Low-set ears
+264	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000007	Autosomal recessive inheritance
+994	617762	Leukodystrophy, progressive, early childhood-onset	HP:0001371	Flexion contracture
+1468	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000011	Neurogenic bladder
+609	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000543	Optic disc pallor
+297	617762	Leukodystrophy, progressive, early childhood-onset	HP:0001249	Intellectual disability
+282	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000448	Prominent nose
+773	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000280	Coarse facial features
+92	617762	Leukodystrophy, progressive, early childhood-onset	HP:0001257	Spasticity
+957	617762	Leukodystrophy, progressive, early childhood-onset	HP:0009830	Peripheral neuropathy
+1489	617762	Leukodystrophy, progressive, early childhood-onset	HP:0004482	Relative macrocephaly
+1428	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000319	Smooth philtrum
+1488	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000340	Sloping forehead
+924	617762	Leukodystrophy, progressive, early childhood-onset	HP:0001284	Areflexia
+933	617762	Leukodystrophy, progressive, early childhood-onset	HP:0002059	Cerebral atrophy
+208	617762	Leukodystrophy, progressive, early childhood-onset	HP:0003676	Progressive
+1487	617762	Leukodystrophy, progressive, early childhood-onset	HP:0000179	Thick lower lip vermilion
+470	617762	Leukodystrophy, progressive, early childhood-onset	HP:0002376	Developmental regression
+1038	617762	Leukodystrophy, progressive, early childhood-onset	HP:0004322	Short stature
+440	617899	Leukodystrophy, hypomyelinating, 14	HP:0001290	Generalized hypotonia
+1336	617899	Leukodystrophy, hypomyelinating, 14	HP:0000365	Hearing impairment
+580	617899	Leukodystrophy, hypomyelinating, 14	HP:0000252	Microcephaly
+1391	617899	Leukodystrophy, hypomyelinating, 14	HP:0001344	Absent speech
+686	617899	Leukodystrophy, hypomyelinating, 14	HP:0002093	Respiratory insufficiency
+298	617899	Leukodystrophy, hypomyelinating, 14	HP:0001249	Intellectual disability
+665	617899	Leukodystrophy, hypomyelinating, 14	HP:0001510	Growth delay
+1254	617899	Leukodystrophy, hypomyelinating, 14	HP:0011968	Feeding difficulties
+337	617899	Leukodystrophy, hypomyelinating, 14	HP:0001250	Seizure
+540	617899	Leukodystrophy, hypomyelinating, 14	HP:0001332	Dystonia
+934	617899	Leukodystrophy, hypomyelinating, 14	HP:0002059	Cerebral atrophy
+265	617899	Leukodystrophy, hypomyelinating, 14	HP:0000007	Autosomal recessive inheritance
+635	617899	Leukodystrophy, hypomyelinating, 14	HP:0001272	Cerebellar atrophy
+615	617899	Leukodystrophy, hypomyelinating, 14	HP:0000618	Blindness
+93	617899	Leukodystrophy, hypomyelinating, 14	HP:0001257	Spasticity
+581	617951	Leukodystrophy, hypomyelinating, 15	HP:0000252	Microcephaly
+209	617951	Leukodystrophy, hypomyelinating, 15	HP:0003676	Progressive
+592	617951	Leukodystrophy, hypomyelinating, 15	HP:0000407	Sensorineural hearing impairment
+1490	617951	Leukodystrophy, hypomyelinating, 15	HP:0000529	Progressive visual loss
+471	617951	Leukodystrophy, hypomyelinating, 15	HP:0002376	Developmental regression
+454	617951	Leukodystrophy, hypomyelinating, 15	HP:0002015	Dysphagia
+1255	617951	Leukodystrophy, hypomyelinating, 15	HP:0011968	Feeding difficulties
+654	617951	Leukodystrophy, hypomyelinating, 15	HP:0001508	Failure to thrive
+541	617951	Leukodystrophy, hypomyelinating, 15	HP:0001332	Dystonia
+1493	617951	Leukodystrophy, hypomyelinating, 15	HP:0000646	Amblyopia
+338	617951	Leukodystrophy, hypomyelinating, 15	HP:0001250	Seizure
+636	617951	Leukodystrophy, hypomyelinating, 15	HP:0001272	Cerebellar atrophy
+512	617951	Leukodystrophy, hypomyelinating, 15	HP:0000648	Optic atrophy
+403	617951	Leukodystrophy, hypomyelinating, 15	HP:0001263	Global developmental delay
+94	617951	Leukodystrophy, hypomyelinating, 15	HP:0001257	Spasticity
+1491	617951	Leukodystrophy, hypomyelinating, 15	HP:0000540	Hypermetropia
+66	617951	Leukodystrophy, hypomyelinating, 15	HP:0001251	Ataxia
+1014	617951	Leukodystrophy, hypomyelinating, 15	HP:0002079	Hypoplasia of the corpus callosum
+1155	617951	Leukodystrophy, hypomyelinating, 15	HP:0002080	Intention tremor
+266	617951	Leukodystrophy, hypomyelinating, 15	HP:0000007	Autosomal recessive inheritance
+1039	617951	Leukodystrophy, hypomyelinating, 15	HP:0004322	Short stature
+41	617951	Leukodystrophy, hypomyelinating, 15	HP:0000639	Nystagmus
+1074	617951	Leukodystrophy, hypomyelinating, 15	HP:0002540	Inability to walk
+935	617951	Leukodystrophy, hypomyelinating, 15	HP:0002059	Cerebral atrophy
+1067	617951	Leukodystrophy, hypomyelinating, 15	HP:0002305	Athetosis
+166	617951	Leukodystrophy, hypomyelinating, 15	HP:0002415	Leukodystrophy
+1182	617951	Leukodystrophy, hypomyelinating, 15	HP:0100543	Cognitive impairment
+808	617951	Leukodystrophy, hypomyelinating, 15	HP:0007256	Abnormal pyramidal sign
+1256	617964	Leukodystrophy, hypomyelinating, 16	HP:0011968	Feeding difficulties
+1156	617964	Leukodystrophy, hypomyelinating, 16	HP:0002080	Intention tremor
+809	617964	Leukodystrophy, hypomyelinating, 16	HP:0007256	Abnormal pyramidal sign
+4	617964	Leukodystrophy, hypomyelinating, 16	HP:0000006	Autosomal dominant inheritance
+42	617964	Leukodystrophy, hypomyelinating, 16	HP:0000639	Nystagmus
+542	617964	Leukodystrophy, hypomyelinating, 16	HP:0001332	Dystonia
+339	617964	Leukodystrophy, hypomyelinating, 16	HP:0001250	Seizure
+850	617964	Leukodystrophy, hypomyelinating, 16	HP:0001276	Hypertonia
+1494	617964	Leukodystrophy, hypomyelinating, 16	HP:0002136	Broad-based gait
+370	617964	Leukodystrophy, hypomyelinating, 16	HP:0001260	Dysarthria
+487	617964	Leukodystrophy, hypomyelinating, 16	HP:0003828	Variable expressivity
+117	617964	Leukodystrophy, hypomyelinating, 16	HP:0001347	Hyperreflexia
+1096	617964	Leukodystrophy, hypomyelinating, 16	HP:0000750	Delayed speech and language development
+167	617964	Leukodystrophy, hypomyelinating, 16	HP:0002415	Leukodystrophy
+1124	617964	Leukodystrophy, hypomyelinating, 16	HP:0001310	Dysmetria
+458	617964	Leukodystrophy, hypomyelinating, 16	HP:0002066	Gait ataxia
+441	617964	Leukodystrophy, hypomyelinating, 16	HP:0001290	Generalized hypotonia
+1015	617964	Leukodystrophy, hypomyelinating, 16	HP:0002079	Hypoplasia of the corpus callosum
+299	617964	Leukodystrophy, hypomyelinating, 16	HP:0001249	Intellectual disability
+637	618006	Leukodystrophy, hypomyelinating, 17	HP:0001272	Cerebellar atrophy
+1392	618006	Leukodystrophy, hypomyelinating, 17	HP:0001344	Absent speech
+168	618006	Leukodystrophy, hypomyelinating, 17	HP:0002415	Leukodystrophy
+1075	618006	Leukodystrophy, hypomyelinating, 17	HP:0002540	Inability to walk
+210	618006	Leukodystrophy, hypomyelinating, 17	HP:0003676	Progressive
+936	618006	Leukodystrophy, hypomyelinating, 17	HP:0002059	Cerebral atrophy
+1040	618006	Leukodystrophy, hypomyelinating, 17	HP:0004322	Short stature
+1316	618006	Leukodystrophy, hypomyelinating, 17	HP:0002187	Intellectual disability, profound
+267	618006	Leukodystrophy, hypomyelinating, 17	HP:0000007	Autosomal recessive inheritance
+995	618006	Leukodystrophy, hypomyelinating, 17	HP:0001371	Flexion contracture
+340	618006	Leukodystrophy, hypomyelinating, 17	HP:0001250	Seizure
+1016	618006	Leukodystrophy, hypomyelinating, 17	HP:0002079	Hypoplasia of the corpus callosum
+582	618006	Leukodystrophy, hypomyelinating, 17	HP:0000252	Microcephaly
+1495	618006	Leukodystrophy, hypomyelinating, 17	HP:0000212	Gingival overgrowth
+1433	618006	Leukodystrophy, hypomyelinating, 17	HP:0000463	Anteverted nares
+1503	618006	Leukodystrophy, hypomyelinating, 17	HP:0009765	Low hanging columella
+1497	618006	Leukodystrophy, hypomyelinating, 17	HP:0000303	Mandibular prognathia
+1498	618006	Leukodystrophy, hypomyelinating, 17	HP:0000687	Widely spaced teeth
+745	618006	Leukodystrophy, hypomyelinating, 17	HP:0003593	Infantile onset
+1502	618006	Leukodystrophy, hypomyelinating, 17	HP:0002521	Hypsarrhythmia
+1501	618006	Leukodystrophy, hypomyelinating, 17	HP:0002098	Respiratory distress
+1257	618006	Leukodystrophy, hypomyelinating, 17	HP:0011968	Feeding difficulties
+1499	618006	Leukodystrophy, hypomyelinating, 17	HP:0001007	Hirsutism
+794	618006	Leukodystrophy, hypomyelinating, 17	HP:0002751	Kyphoscoliosis
+118	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001347	Hyperreflexia
+1412	618186	Neuropathy, congenital hypomyelinating, 3	HP:0002020	Gastroesophageal reflux
+1444	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000268	Dolichocephaly
+783	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000505	Visual impairment
+95	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001257	Spasticity
+1496	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000212	Gingival overgrowth
+687	618186	Neuropathy, congenital hypomyelinating, 3	HP:0002093	Respiratory insufficiency
+583	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000252	Microcephaly
+1017	618186	Neuropathy, congenital hypomyelinating, 3	HP:0002079	Hypoplasia of the corpus callosum
+1507	618186	Neuropathy, congenital hypomyelinating, 3	HP:0003121	Limb joint contracture
+341	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001250	Seizure
+1337	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000365	Hearing impairment
+1137	618186	Neuropathy, congenital hypomyelinating, 3	HP:0003429	CNS hypomyelination
+268	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000007	Autosomal recessive inheritance
+543	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001332	Dystonia
+972	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000218	High palate
+1438	618186	Neuropathy, congenital hypomyelinating, 3	HP:0012471	Thick vermilion border
+188	618186	Neuropathy, congenital hypomyelinating, 3	HP:0003487	Babinski sign
+899	618186	Neuropathy, congenital hypomyelinating, 3	HP:0003577	Congenital onset
+638	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001272	Cerebellar atrophy
+1090	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000286	Epicanthus
+799	618186	Neuropathy, congenital hypomyelinating, 3	HP:0002804	Arthrogryposis multiplex congenita
+1505	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001349	Facial diplegia
+1504	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001188	Hand clenching
+1201	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001558	Decreased fetal movement
+835	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000369	Low-set ears
+1399	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001561	Polyhydramnios
+414	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001265	Hyporeflexia
+1506	618186	Neuropathy, congenital hypomyelinating, 3	HP:0001760	Abnormal foot morphology
+1446	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000347	Micrognathia
+604	618186	Neuropathy, congenital hypomyelinating, 3	HP:0000508	Ptosis
+1508	618186	Neuropathy, congenital hypomyelinating, 3	HP:0004326	Cachexia
+455	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002015	Dysphagia
+692	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002104	Apnea
+404	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001263	Global developmental delay
+1231	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000253	Progressive microcephaly
+680	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002013	Vomiting
+189	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0003487	Babinski sign
+688	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002093	Respiratory insufficiency
+442	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001290	Generalized hypotonia
+705	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002352	Leukoencephalopathy
+472	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002376	Developmental regression
+513	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000648	Optic atrophy
+119	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001347	Hyperreflexia
+169	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002415	Leukodystrophy
+342	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001250	Seizure
+746	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0003593	Infantile onset
+269	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000007	Autosomal recessive inheritance
+67	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001251	Ataxia
+639	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001272	Cerebellar atrophy
+655	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001508	Failure to thrive
+622	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001254	Lethargy
+847	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000737	Irritability
+605	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000508	Ptosis
+892	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0003128	Lactic acidosis
+600	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000486	Strabismus
+1164	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0002465	Poor speech
+211	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0003676	Progressive
+1510	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0012444	Brain atrophy
+43	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000639	Nystagmus
+544	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0001332	Dystonia
+1509	618226	Mitochondrial complex I deficiency, nuclear type 5	HP:0000602	Ophthalmoplegia
+270	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0000007	Autosomal recessive inheritance
+343	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0001250	Seizure
+1357	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0001639	Hypertrophic cardiomyopathy
+900	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0003577	Congenital onset
+937	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0002059	Cerebral atrophy
+693	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0002104	Apnea
+1018	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0002079	Hypoplasia of the corpus callosum
+1278	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0001942	Metabolic acidosis
+673	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0001522	Death in infancy
+405	618235	Mitochondrial complex I deficiency, nuclear type 13	HP:0001263	Global developmental delay
+406	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001263	Global developmental delay
+170	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0002415	Leukodystrophy
+190	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0003487	Babinski sign
+1512	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0003198	Myopathy
+706	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0002352	Leukoencephalopathy
+68	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001251	Ataxia
+371	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001260	Dysarthria
+44	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0000639	Nystagmus
+271	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0000007	Autosomal recessive inheritance
+666	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001510	Growth delay
+100	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001317	Abnormal cerebellum morphology
+120	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001347	Hyperreflexia
+488	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0003828	Variable expressivity
+1326	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0002355	Difficulty walking
+1511	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0002121	Generalized non-motor (absence) seizure
+96	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0001257	Spasticity
+601	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0000486	Strabismus
+1165	618242	Mitochondrial complex I deficiency, nuclear type 21	HP:0002465	Poor speech
+1393	618404	Leukodystrophy, hypomyelinating, 18	HP:0001344	Absent speech
+640	618404	Leukodystrophy, hypomyelinating, 18	HP:0001272	Cerebellar atrophy
+272	618404	Leukodystrophy, hypomyelinating, 18	HP:0000007	Autosomal recessive inheritance
+489	618404	Leukodystrophy, hypomyelinating, 18	HP:0003828	Variable expressivity
+372	618404	Leukodystrophy, hypomyelinating, 18	HP:0001260	Dysarthria
+97	618404	Leukodystrophy, hypomyelinating, 18	HP:0001257	Spasticity
+45	618404	Leukodystrophy, hypomyelinating, 18	HP:0000639	Nystagmus
+1081	618404	Leukodystrophy, hypomyelinating, 18	HP:0002650	Scoliosis
+1217	618404	Leukodystrophy, hypomyelinating, 18	HP:0007108	Demyelinating peripheral neuropathy
+191	618404	Leukodystrophy, hypomyelinating, 18	HP:0003487	Babinski sign
+479	618404	Leukodystrophy, hypomyelinating, 18	HP:0002518	Abnormal periventricular white matter morphology
+1320	618404	Leukodystrophy, hypomyelinating, 18	HP:0005484	Secondary microcephaly
+1329	618404	Leukodystrophy, hypomyelinating, 18	HP:0007366	Atrophy/Degeneration affecting the brainstem
+826	618404	Leukodystrophy, hypomyelinating, 18	HP:0011344	Severe global developmental delay
+310	618404	Leukodystrophy, hypomyelinating, 18	HP:0000762	Decreased nerve conduction velocity
+556	618404	Leukodystrophy, hypomyelinating, 18	HP:0002510	Spastic tetraplegia
+407	618404	Leukodystrophy, hypomyelinating, 18	HP:0001263	Global developmental delay
+344	618404	Leukodystrophy, hypomyelinating, 18	HP:0001250	Seizure
+1514	618404	Leukodystrophy, hypomyelinating, 18	HP:0040131	Abnormal motor nerve conduction velocity
+212	618404	Leukodystrophy, hypomyelinating, 18	HP:0003676	Progressive
+996	618404	Leukodystrophy, hypomyelinating, 18	HP:0001371	Flexion contracture
+656	618404	Leukodystrophy, hypomyelinating, 18	HP:0001508	Failure to thrive
+1160	618404	Leukodystrophy, hypomyelinating, 18	HP:0002191	Progressive spasticity
+1125	618404	Leukodystrophy, hypomyelinating, 18	HP:0001310	Dysmetria
+545	618404	Leukodystrophy, hypomyelinating, 18	HP:0001332	Dystonia
+1513	618404	Leukodystrophy, hypomyelinating, 18	HP:0011471	Gastrostomy tube feeding in infancy
+1441	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0031936	Delayed ability to walk
+171	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0002415	Leukodystrophy
+192	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0003487	Babinski sign
+1515	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0012043	Pendular nystagmus
+711	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0002421	Poor head control
+1126	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0001310	Dysmetria
+1168	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0002599	Head titubation
+1022	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0002188	Delayed CNS myelination
+1157	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0002080	Intention tremor
+514	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0000648	Optic atrophy
+565	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0000047	Hypospadias
+1112	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0000545	Myopia
+443	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0001290	Generalized hypotonia
+1339	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0001328	Specific learning disability
+5	618688	Leukodystrophy, hypomyelinating, 19, transient infantile	HP:0000006	Autosomal dominant inheritance
+1518	618863	Retinal dystrophy with leukodystrophy	HP:0001488	Bilateral ptosis
+840	618863	Retinal dystrophy with leukodystrophy	HP:0000510	Rod-cone dystrophy
+373	618863	Retinal dystrophy with leukodystrophy	HP:0001260	Dysarthria
+1519	618863	Retinal dystrophy with leukodystrophy	HP:0002515	Waddling gait
+1146	618863	Retinal dystrophy with leukodystrophy	HP:0001270	Motor delay
+1138	618863	Retinal dystrophy with leukodystrophy	HP:0003429	CNS hypomyelination
+1520	618863	Retinal dystrophy with leukodystrophy	HP:0002527	Falls
+1517	618863	Retinal dystrophy with leukodystrophy	HP:0000601	Hypotelorism
+1516	618863	Retinal dystrophy with leukodystrophy	HP:0000175	Cleft palate
+273	618863	Retinal dystrophy with leukodystrophy	HP:0000007	Autosomal recessive inheritance
+1232	618863	Retinal dystrophy with leukodystrophy	HP:0000253	Progressive microcephaly
+1521	618863	Retinal dystrophy with leukodystrophy	HP:0003391	Gowers sign
+1127	618863	Retinal dystrophy with leukodystrophy	HP:0001310	Dysmetria
+1269	618863	Retinal dystrophy with leukodystrophy	HP:0030147	Truncal titubation
+1062	618863	Retinal dystrophy with leukodystrophy	HP:0001583	Rotary nystagmus
+1097	618863	Retinal dystrophy with leukodystrophy	HP:0000750	Delayed speech and language development
+1384	618863	Retinal dystrophy with leukodystrophy	HP:0008167	Very long chain fatty acid accumulation
+1522	618863	Retinal dystrophy with leukodystrophy	HP:0009904	Prominent ear helix
+172	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002415	Leukodystrophy
+1526	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002092	Pulmonary arterial hypertension
+1524	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001640	Cardiomegaly
+1523	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0000572	Visual loss
+1527	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0003326	Myalgia
+1528	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0003688	Cytochrome C oxidase-negative muscle fibers
+1530	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0005180	Tricuspid regurgitation
+1531	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0410175	Hyperketonemia
+1525	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001714	Ventricular hypertrophy
+945	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002119	Ventriculomegaly
+893	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0003128	Lactic acidosis
+421	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001268	Mental deterioration
+444	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001290	Generalized hypotonia
+447	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001324	Muscle weakness
+1358	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001639	Hypertrophic cardiomyopathy
+1481	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002070	Limb ataxia
+274	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0000007	Autosomal recessive inheritance
+1282	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001987	Hyperammonemia
+1483	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002078	Truncal ataxia
+1258	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0011968	Feeding difficulties
+1238	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001511	Intrauterine growth retardation
+714	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002490	Increased CSF lactate
+728	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0003348	Hyperalaninemia
+756	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0007965	Undetectable visual evoked potentials
+882	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0002151	Increased serum lactate
+1425	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0100704	Cerebral visual impairment
+1280	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001942	Metabolic acidosis
+1279	619051	Mitochondrial complex IV deficiency, nuclear type 7	HP:0001942	Metabolic acidosis
+1529	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0003688	Cytochrome C oxidase-negative muscle fibers
+1532	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0007141	Sensorimotor neuropathy
+1533	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0008347	Decreased activity of mitochondrial complex IV
+1534	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0033369	Cavitating leukodystrophy
+1098	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0000750	Delayed speech and language development
+69	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0001251	Ataxia
+427	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0001285	Spastic tetraparesis
+374	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0001260	Dysarthria
+345	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0001250	Seizure
+964	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0011463	Childhood onset
+473	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0002376	Developmental regression
+275	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0000007	Autosomal recessive inheritance
+300	619061	Mitochondrial complex IV deficiency, nuclear type 17	HP:0001249	Intellectual disability
+641	619071	Leukodystrophy, hypomyelinating, 20	HP:0001272	Cerebellar atrophy
+1500	619071	Leukodystrophy, hypomyelinating, 20	HP:0001007	Hirsutism
+1259	619071	Leukodystrophy, hypomyelinating, 20	HP:0011968	Feeding difficulties
+474	619071	Leukodystrophy, hypomyelinating, 20	HP:0002376	Developmental regression
+606	619071	Leukodystrophy, hypomyelinating, 20	HP:0000508	Ptosis
+1082	619071	Leukodystrophy, hypomyelinating, 20	HP:0002650	Scoliosis
+1537	619071	Leukodystrophy, hypomyelinating, 20	HP:0012706	Elevated brain choline level by MRS
+1538	619071	Leukodystrophy, hypomyelinating, 20	HP:0012708	Reduced brain N-acetyl aspartate level by MRS
+1233	619071	Leukodystrophy, hypomyelinating, 20	HP:0000253	Progressive microcephaly
+557	619071	Leukodystrophy, hypomyelinating, 20	HP:0002510	Spastic tetraplegia
+1539	619071	Leukodystrophy, hypomyelinating, 20	HP:0030081	Punctate periventricular T2 hyperintense foci
+1535	619071	Leukodystrophy, hypomyelinating, 20	HP:0001348	Brisk reflexes
+1536	619071	Leukodystrophy, hypomyelinating, 20	HP:0012450	Chronic constipation
+1188	619071	Leukodystrophy, hypomyelinating, 20	HP:0000473	Torticollis
+276	619071	Leukodystrophy, hypomyelinating, 20	HP:0000007	Autosomal recessive inheritance
+1019	619071	Leukodystrophy, hypomyelinating, 20	HP:0002079	Hypoplasia of the corpus callosum
+965	619071	Leukodystrophy, hypomyelinating, 20	HP:0011463	Childhood onset
+774	619071	Leukodystrophy, hypomyelinating, 20	HP:0000280	Coarse facial features
+848	619071	Leukodystrophy, hypomyelinating, 20	HP:0000737	Irritability
+193	619071	Leukodystrophy, hypomyelinating, 20	HP:0003487	Babinski sign
+1184	619310	Leukodystrophy, hypomyelinating, 21	HP:0000028	Cryptorchidism
+667	619310	Leukodystrophy, hypomyelinating, 21	HP:0001510	Growth delay
+747	619310	Leukodystrophy, hypomyelinating, 21	HP:0003593	Infantile onset
+1114	619310	Leukodystrophy, hypomyelinating, 21	HP:0000668	Hypodontia
+1068	619310	Leukodystrophy, hypomyelinating, 21	HP:0002305	Athetosis
+1106	619310	Leukodystrophy, hypomyelinating, 21	HP:0000044	Hypogonadotropic hypogonadism
+770	619310	Leukodystrophy, hypomyelinating, 21	HP:0100660	Dyskinesia
+221	619310	Leukodystrophy, hypomyelinating, 21	HP:0007371	Corpus callosum atrophy
+657	619310	Leukodystrophy, hypomyelinating, 21	HP:0001508	Failure to thrive
+762	619310	Leukodystrophy, hypomyelinating, 21	HP:0008872	Feeding difficulties in infancy
+46	619310	Leukodystrophy, hypomyelinating, 21	HP:0000639	Nystagmus
+642	619310	Leukodystrophy, hypomyelinating, 21	HP:0001272	Cerebellar atrophy
+625	619310	Leukodystrophy, hypomyelinating, 21	HP:0001259	Coma
+277	619310	Leukodystrophy, hypomyelinating, 21	HP:0000007	Autosomal recessive inheritance
+584	619310	Leukodystrophy, hypomyelinating, 21	HP:0000252	Microcephaly
+546	619310	Leukodystrophy, hypomyelinating, 21	HP:0001332	Dystonia
+515	619310	Leukodystrophy, hypomyelinating, 21	HP:0000648	Optic atrophy
+1540	619310	Leukodystrophy, hypomyelinating, 21	HP:0001946	Ketosis
+1541	619310	Leukodystrophy, hypomyelinating, 21	HP:0002273	Tetraparesis
+1542	619310	Leukodystrophy, hypomyelinating, 21	HP:0025336	Delayed ability to sit
+422	619310	Leukodystrophy, hypomyelinating, 21	HP:0001268	Mental deterioration
+70	619310	Leukodystrophy, hypomyelinating, 21	HP:0001251	Ataxia
+1544	619310	Leukodystrophy, hypomyelinating, 21	HP:0033044	Motor regression
+1394	619310	Leukodystrophy, hypomyelinating, 21	HP:0001344	Absent speech
+1548	619328	Leukodystrophy, hypomyelinating, 22	HP:0006895	Lower limb hypertonia
+1547	619328	Leukodystrophy, hypomyelinating, 22	HP:0006889	Intellectual disability, borderline
+1064	619328	Leukodystrophy, hypomyelinating, 22	HP:0001763	Pes planus
+1071	619328	Leukodystrophy, hypomyelinating, 22	HP:0002307	Drooling
+1545	619328	Leukodystrophy, hypomyelinating, 22	HP:0000483	Astigmatism
+1543	619328	Leukodystrophy, hypomyelinating, 22	HP:0025336	Delayed ability to sit
+1076	619328	Leukodystrophy, hypomyelinating, 22	HP:0002540	Inability to walk
+997	619328	Leukodystrophy, hypomyelinating, 22	HP:0001371	Flexion contracture
+1546	619328	Leukodystrophy, hypomyelinating, 22	HP:0002395	Lower limb hyperreflexia
+1139	619328	Leukodystrophy, hypomyelinating, 22	HP:0003429	CNS hypomyelination
+1442	619328	Leukodystrophy, hypomyelinating, 22	HP:0031936	Delayed ability to walk
+602	619328	Leukodystrophy, hypomyelinating, 22	HP:0000486	Strabismus
+375	619328	Leukodystrophy, hypomyelinating, 22	HP:0001260	Dysarthria
+610	619328	Leukodystrophy, hypomyelinating, 22	HP:0000543	Optic disc pallor
+1492	619328	Leukodystrophy, hypomyelinating, 22	HP:0000540	Hypermetropia
+194	619328	Leukodystrophy, hypomyelinating, 22	HP:0003487	Babinski sign
+47	619328	Leukodystrophy, hypomyelinating, 22	HP:0000639	Nystagmus
+1099	619328	Leukodystrophy, hypomyelinating, 22	HP:0000750	Delayed speech and language development
+748	619328	Leukodystrophy, hypomyelinating, 22	HP:0003593	Infantile onset
+6	619328	Leukodystrophy, hypomyelinating, 22	HP:0000006	Autosomal dominant inheritance
+817	619328	Leukodystrophy, hypomyelinating, 22	HP:0008936	Axial hypotonia
+978	619328	Leukodystrophy, hypomyelinating, 22	HP:0000470	Short neck
+1549	619328	Leukodystrophy, hypomyelinating, 22	HP:0200049	Upper limb hypertonia
+346	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001250	Seizure
+301	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001249	Intellectual disability
+278	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0000007	Autosomal recessive inheritance
+376	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001260	Dysarthria
+121	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001347	Hyperreflexia
+1147	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001270	Motor delay
+1332	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0033725	Thin corpus callosum
+593	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0000407	Sensorineural hearing impairment
+1140	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0003429	CNS hypomyelination
+71	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001251	Ataxia
+862	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0002910	Elevated hepatic transaminase
+1059	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001258	Spastic paraplegia
+966	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0011463	Childhood onset
+1360	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0001644	Dilated cardiomyopathy
+1550	619688	Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy	HP:0003477	Peripheral axonal neuropathy
