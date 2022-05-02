@@ -18,7 +18,7 @@ CREATE TABLE geneNamesOMIM(
     gene VARCHAR(20),
     geneName VARCHAR(75),
     approvedGeneSymbol VARCHAR(20),
-    entrezGeneID INT,
+    entrezGeneID VARCHAR(25),
     ensemblGeneID VARCHAR(25),
 
     PRIMARY KEY (geneOMIM_Num, gene)

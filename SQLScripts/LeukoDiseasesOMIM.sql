@@ -17,7 +17,7 @@
 
 -- DDL statement for to create the LeukoDiseasesOMIM
 CREATE TABLE LeukoDiseasesOMIM( 
-    OMIM_Num VARCHAR (20), 
+    OMIM_Num INT, 
     disease_name VARCHAR(125),
     entrez_geneID VARCHAR(10),
     PRIMARY KEY (OMIM_Num)
