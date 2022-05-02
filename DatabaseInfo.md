@@ -605,3 +605,4 @@
 # Information on Data Tables
 
 # ER Diagram
+![FinalLeukoDB_ER(1)](https://user-images.githubusercontent.com/78552673/166291731-22a121c1-f9d4-470e-afab-0698765ec4e8.jpg)
